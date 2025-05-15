@@ -1,0 +1,30 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+39.580000,0.00000,KAE695,"Atchison County","Rural Fire Paging","AtchisonCo FD Pg",,,FM,B,"Fire Dispatch"
+153.680000,0.00000,KAM753,"Atchison (City)","Public Works","Atchison PubWks",,,FMN,BM,"Public Works"
+153.770000,0.00000,,"Atchison County","Rural Fire Dispatch","Atchison Co FD 1",,,FMN,BM,"Fire Dispatch"
+154.130000,0.00000,,"Atchison County","Rural Fire Tactical","Atchison Co FD 2",,,FMN,RM,Fire-Tac
+154.355000,153.89000,KEO265,"Atchison (City)","Fire Dispatch","Atchison Fire",,,FMN,RM,"Fire Dispatch"
+154.905000,0.00000,WPSG555,"Atchison County","Sheriff /  Fire","Atchison Co FD",,,FMN,M,Fire-Tac
+155.010000,158.97000,KAB316,"Atchison (City)","Police Dispatch","Atchison Police","174 DPL",,FMN,RM,"Law Dispatch"
+155.940000,153.74000,KAM753,"Atchison (City)","Public Works","Atchison PubWks",,,FMN,RM,"Public Works"
+155.970000,0.00000,KAB316,"Atchison (City)","Police Tactical","Atchison PD 2",,,FMN,BM,"Law Tac"
+158.895000,0.00000,KEO265,"Atchison (City)","Fire Tactical","Atchison Fire 2",,,FMN,BM,Fire-Tac
+453.300000,458.30000,WPEC577,"Atchison County","Rural Fire / EMS / Emergency Preparedness","Atchison Co EMS","155 DPL",,FMN,RM,Fire-Tac
+453.675000,458.67500,WNSS685,"Atchison County","Highway Maintenance","Atchison Co Road",,,FMN,RM,"Public Works"
+453.900000,458.90000,WPSG555,"Atchison County","Sheriff Dispatch","Atchison Co SO","162.2 PL",,FMN,RM,"Law Dispatch"
+458.250000,0.00000,WPSG555,"Atchison County","Sheriff Tactical","Atchison Co SO 2",,,FMN,M,"Law Tac"
+851.712500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 008 Huron",,,,"Project 25",,TRS
+852.487500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 008 Huron",,,,"Project 25",,TRS
+852.775000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 008 Huron",,,,"Project 25",,TRS
+853.075000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 008 Huron",,,,"Project 25",,TRS
+853.425000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 008 Huron",,,,"Project 25",,TRS
+853.725000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 008 Huron",,,,"Project 25",,TRS
+854.537500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 047 Atchison",,,,"Project 25",,TRS
+856.187500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 047 Atchison",,,,"Project 25",,TRS
+856.637500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 047 Atchison",,,,"Project 25",,TRS
+857.012500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 047 Atchison",,,,"Project 25",,TRS
+857.537500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 047 Atchison",,,,"Project 25",,TRS
+858.112500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 047 Atchison",,,,"Project 25",,TRS
+936.050000,0.00000," ","Evergy (DMR T3)","Site 002 Atchison",,,,DMR,,TRS
+936.300000,0.00000," ","Evergy (DMR T3)","Site 002 Atchison",,,,DMR,,TRS
+936.450000,0.00000," ","Evergy (DMR T3)","Site 002 Atchison",,,,DMR,,TRS

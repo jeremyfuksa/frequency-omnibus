@@ -1,0 +1,10 @@
+Decimal,Hex,Alpha Tag,Mode,Description,Tag,Category
+1,001,"Security","T","Security","Security","All"
+2,002,"Plant Ops 2","T","Plant Ops","Business","All"
+3,003,"Plant Ops 3","T","Plant Ops","Business","All"
+4,004,"Plant Ops 4","T","Plant Ops","Business","All"
+8,008,"Loading Dock","T","Loading Dock","Business","All"
+16,010,"Plant Ops 16","T","Plant Ops","Business","All"
+19,013,"Maintenance 19","T","Maintenance","Business","All"
+20,014,"Maintenance 20","T","Maintenance","Business","All"
+27,01b,"Receiving","T","Receiving","Business","All"

@@ -1,0 +1,136 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+119.350000,0.00000,,"Airports Aviation -- Air Traffic Control","Executive Airport -- ATIS","JoCoAirport ATIS",CSQ,,AM,B,Aircraft
+121.600000,0.00000,,"Airports Aviation -- Air Traffic Control","Executive Ground",JCoAirportGround,CSQ,,AM,BM,Aircraft
+122.950000,0.00000,WQLR356,"Airports Aviation -- Air Traffic Control","Executive Airport Unicom",JCoAirportUnicom,CSQ,,AM,BM,Aircraft
+122.950000,0.00000,WQLR356,"Airports Aviation -- Air Traffic Control","New Century Unicom",NewCenturyUnicom,CSQ,,AM,BM,Aircraft
+124.300000,0.00000,WRFV389,"Airports Aviation -- Air Traffic Control","New Century Ground","New Century Grnd",CSQ,,AM,BM,Aircraft
+126.000000,0.00000,,"Airports Aviation -- Air Traffic Control","Executive Tower",JoCoAirportTower,CSQ,,AM,BM,Aircraft
+133.000000,0.00000,WRFV389,"Airports Aviation -- Air Traffic Control","New Century Tower","NewCentury Tower",CSQ,,AM,BM,Aircraft
+135.235000,0.00000,,"Airports Aviation -- Air Traffic Control","New Century Weather (ASOS)","New Century Wx ",CSQ,,AM,B,Aircraft
+145.210000,144.61000,W0ERH,"Johnson County Radio Amateurs Club (JCRAC)","JCRAC 145.21 Analog","145.210 Analog","151.4 PL","151.4 PL",FM,RM,Ham
+145.230000,144.63000,KD0JWD,"BackYard Repeater Group â€“ WBÃ˜YRG","Olathe VHF #1 -- 145.230 DMR","BYRG VHF 145.230","CC 1|TG *|SL *",,DMR,RM,Ham
+145.290000,144.69000,W0ERH,"Johnson County Radio Amateurs Club (JCRAC)","JCRAC 145.290 DMR","145.290 DMR","CC 1|TG 913|SL 1",,DMR,RM,Ham
+145.290000,144.69000,W0ERH,"Johnson County Radio Amateurs Club (JCRAC)","JCRAC 145.290 Analog","145.290 Analog","151.4 PL","151.4 PL",FM,RM,Ham
+145.470000,144.87000,K0ECS,"Weather Repeaters","Severe Weather Spotters",K0ECS,"151.4 PL",,FM,RM,Ham
+146.700000,146.10000,KC0SKY,"Weather Repeaters","Net Control Relays Spotter Information to Pleasant Hill NWS",KC0SKY,"107.2 PL",,FM,RM,Ham
+147.165000,147.76500,WB0KIA,"BackYard Repeater Group â€“ WBÃ˜YRG","Mission VHF #1 -- 147.165 DMR","BYRG VHF 147.165","CC 1|TG *|SL *",,DMR,RM,Ham
+151.025000,0.00000,WNPE561,"Johnson County","Highway Maintenance","Johnson Co Roads",,,FMN,RM,"Public Works"
+153.845000,0.00000,KAN344,Olathe,"Public Works","Olathe PublicWks",,,FMN,,"Public Works"
+153.995000,155.98500,KAV268,"Johnson County","Emergency Management","Johnson Co EM","151.4 PL",,FMN,RM,"Emergency Ops"
+154.210000,144.61000,W0ERH,"Johnson County Radio Amateurs Club (JCRAC)","JCRAC 145.21 DMR","145.210 DMR","CC 1|TG 913|SL 1",,DMR,RM,Ham
+154.250000,0.00000,KAD913,"Johnson County","Fire and EMS Dispatch","Johnson Co FD 1","151.4 PL",,FMN,RM,"Fire Dispatch"
+155.925000,0.00000,KFI499,Shawnee,"Public Works","Shawnee PublicWk",,,FM,BM,"Public Works"
+155.955000,0.00000,KZM807,Lenexa,"Public Works","Lenexa PublicWks","110.9 PL",,FMN,RM,"Public Works"
+158.925000,0.00000,KNNJ980,"Johnson County","Public Library - Security / Operations",JohnsonCoLibrary,"94.8 PL",,FMN,M,"Public Works"
+159.105000,0.00000,WXQ960,Merriam,"Public Works","Merriam Pub Wks",,,FMN,BM,"Public Works"
+223.940000,222.34000,W0ERH,"Johnson County Radio Amateurs Club (JCRAC)","JCRAC 223.94 Analog","JCRAC 220 Analog","151.4 PL","151.4 PL",FM,RM,Ham
+224.100000,222.50000,WA0KIA,"BackYard Repeater Group â€“ WBÃ˜YRG","Mission 220 -- 224.100","BYRG 224.100",CSQ,CSQ,FM,RM,Ham
+442.600000,447.60000,W0ERH,"Johnson County Radio Amateurs Club (JCRAC)","JCRAC Kansas City Room","442.600 Fusion",,,YSF,RM,Ham
+443.100000,448.10000,WB0YRG,"BackYard Repeater Group â€“ WBÃ˜YRG","Mission UHF #1 -- 443.100 DMR","BYRG UHF 443.100","CC 1|TG *|SL *",,DMR,RM,Ham
+443.725000,448.72500,W0ERH,"Johnson County Radio Amateurs Club (JCRAC)","JCRAC Kansas City Room","443.725 Fusion",,,YSF,RM,Ham
+444.400000,449.40000,K0HCV,"Other Repeaters","KC Room Host, Olathe kansascityroom.com","KC Room",,,YSF,RM,Ham
+444.850000,449.85000,WB0NSQ,"BackYard Repeater Group â€“ WBÃ˜YRG","Mission UHF #2 -- 444.850","BYRG UHF Analog","151.4 PL","151.4 PL",FM,RM,Ham
+451.325000,0.00000," ","United Parcel Service","Site 001 Lenexa Customer Center",,,,DMR,,TRS
+451.500000,0.00000," ","United Parcel Service","Site 001 Lenexa Customer Center",,,,DMR,,TRS
+451.737500,0.00000," ","University of Kansas Health System","Site 004 Indian Creek Campus",,,,NXDN,,TRS
+451.775000,0.00000," ","United Parcel Service","Site 001 Lenexa Customer Center",,,,DMR,,TRS
+451.837500,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+451.925000,0.00000," ","University of Kansas Health System","Site 005 Marillac Campus",,,,NXDN,,TRS
+451.987500,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+452.150000,0.00000," ","United Parcel Service","Site 001 Lenexa Customer Center",,,,DMR,,TRS
+452.337500,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+452.350000,0.00000," ","United Parcel Service","Site 001 Lenexa Customer Center",,,,DMR,,TRS
+452.362500,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+452.375000,457.37500,WPPY508,"Retail Town Center Plaza","Mall Security",TownCentrSecurty,,,FMN,RM,Business
+452.500000,457.50000,WPNP799,"Hospitals Olathe Medical Center","Hospital Security",OlatheMedSecurty,,,FMN,RM,Hospital
+452.625000,0.00000," ","United Parcel Service","Site 001 Lenexa Customer Center",,,,DMR,,TRS
+452.725000,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+453.162500,0.00000,WPMT991,"Hospitals Shawnee Mission Medical Center","Emergency Room","SM Hospital ER",,,FMN,M,Hospital
+453.562500,458.56250,WPPB395,Edgerton,"Public Works","Edgerton Pub Wks",,,FMN,RM,"Public Works"
+454.175000,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+460.100000,465.10000,KAF565,"Johnson County","Law Enforcement Mutal Aid - Intercity Patch",JoCoLawIntercity,"110.9 PL",,FMN,RM,"Law Talk"
+461.037500,0.00000,KB64861,"Retail Oak Park Mall","Mall Security / Maintenance",OakPkMallSecurty,"432 DPL",,FMN,BM,Business
+461.112500,0.00000,WPMG564,"Retail Oak Park Mall","Sephora Beauty","Sephora Beauty","412 DPL",,FMN,BM,Business
+461.275000,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+461.412500,0.00000," ","University of Kansas Health System","Site 006 Lenexa",,,,NXDN,,TRS
+461.425000,0.00000," ","Lineage Logistics","Site 001 Olathe",,,,DMR,,TRS
+461.550000,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+461.950000,466.95000,WQBB898,"Businesses Corporate Woods","Ch 1 -- Administration","Corp Woods Admn","250.3 PL",,FMN,RM,Business
+462.100000,0.00000," ","MotoNet CP+ (DMR)","Site 003 Bott (Olathe)",,,,DMR,,TRS
+462.500000,467.50000,WQCF340,"Johnson County","School Maintenace",ShawneeMsnSchool,"612 DPL",,FMN,RM,Schools
+462.500000,467.50000,KB64861,"Retail Oak Park Mall","Mall Cleaning Crews",OakParkMallClean,,,FMN,RM,Business
+462.750000,0.00000,WPMN790,"Hospitals Olathe Medical Center","Hospital Paging","OlatheMed Paging",,,FMN,B,Business
+463.362500,0.00000,WPWY758,"Businesses Overland Park Convention Center","Convention Center 1","OP Conv Center 1",,,FMN,M,Business
+463.512500,0.00000," ","University of Kansas Health System","Site 003 Westwood Campus",,,,NXDN,,TRS
+463.575000,468.57500,WQBB898,"Businesses Corporate Woods","Ch 2  -- Security / Maintenance","Corp Woods Secur","250.3 PL",,FMN,RM,Business
+463.825000,468.82500,WNCM799,"Hospitals Shawnee Mission Medical Center",Hospital,ShawneeMssionMed,,,FMN,RM,Hospital
+464.200000,0.00000," ","Lineage Logistics","Site 001 Olathe",,,,DMR,,TRS
+464.462500,0.00000," ","University of Kansas Health System","Site 001 KU MedWest",,,,NXDN,,TRS
+464.475000,0.00000,KNBZ863,"Businesses Overland Park Doubletree Hotel","Hotel Security and Maintenance","Doubletree Hotel","565 DPL",,FMN,BM,Business
+464.500000,0.00000,,"Retail Merriam",Carmax,Carmax,"67.0 PL",,FMN,BM,Business
+464.675000,0.00000,WPJU921,"Hospitals Overland Park Regional Medical Center","Hospital Security","OPMedCtr Securty",,,FMN,BM,Hospital
+464.675000,0.00000,WPAB453,"Businesses Brookridge Golf and Country Club","Golf Course","Brookridge Golf","565 DPL",,FMN,M,Business
+466.950000,0.00000,WQBB898,"Businesses Corporate Woods","Ch 3","CorporateWoods 3","250.3 PL",,FMN,M,Business
+467.750000,0.00000,WPWY758,"Businesses Overland Park Convention Center","Food Services","OP ConvCentrFood",,,FMN,M,Business
+467.800000,0.00000,WPWY758,"Businesses Overland Park Convention Center",Events,"OP ConvCtr Event",,,FMN,M,Business
+467.850000,0.00000,WPWY758,"Businesses Overland Park Convention Center",Shows,"OP ConvCentShows",,,FMN,M,Business
+467.875000,0.00000,,"Retail Merriam","Marshalls Store Associates",Marshalls,"100.0 PL",,FMN,BM,Business
+467.900000,0.00000,WPWY758,"Businesses Overland Park Convention Center","Talk Around","OP Conv CenterTA",,,FMN,M,Business
+468.362500,0.00000,WPWY758,"Businesses Overland Park Convention Center","Convention Center 2","OP Conv Center 2",,,FMN,M,Business
+468.575000,0.00000,WQBB898,"Businesses Corporate Woods","Ch 4","CorporateWoods 4","250.3 PL",,FMN,M,Business
+469.487500,0.00000,,"Retail Olathe","Store Associates",Marshalls,"210.7 PL",,FMN,BM,Business
+851.262500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+851.537500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+851.662500,806.66250,WQEM746,"Johnson County","Sheriff - South Zone Dispatch","JoCoSO South Dis","156.7 PL",,FM,RM,"Law Dispatch"
+851.887500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+851.912500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 001 Olathe",,,,"Project 25",,TRS
+852.112500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 001 Olathe",,,,"Project 25",,TRS
+852.137500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+852.575000,807.57500,WQEM746,"Johnson County","Sheriff - Car to Car / Training","JohnsonCo SO Car",,,FM,RM,"Law Tac"
+852.825000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+852.850000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 001 Olathe",,,,"Project 25",,TRS
+853.100000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+853.275000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 001 Olathe",,,,"Project 25",,TRS
+853.350000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+853.450000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 001 Olathe",,,,"Project 25",,TRS
+853.700000,808.70000,WPQG513,"Johnson County","Sheriff - South Zone Common","JoCoSO South Com",,,FM,RM,"Law Tac"
+853.775000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+853.900000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 001 Olathe",,,,"Project 25",,TRS
+853.962500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+855.037500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+855.262500,810.26250,WPHJ451,"Hospitals Shawnee Mission Medical Center",Hospital,ShawneeMssionMed,,,FM,RM,Hospital
+855.312500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+855.337500,0.00000," ","Advent Health","Site 002 Lenexa",,,,DMR,,TRS
+855.412500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 KS Johnson County Corrections",,,,"Project 25",,TRS
+855.437500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+855.512500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+856.362500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+856.387500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 KS Johnson County Corrections",,,,"Project 25",,TRS
+856.862500,0.00000," ","Advent Health","Site 004 College Blvd ER",,,,DMR,,TRS
+856.912500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+856.962500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+857.362500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+857.387500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 KS Johnson County Corrections",,,,"Project 25",,TRS
+857.912500,812.91250,WPHJ451,"Hospitals Shawnee Mission Medical Center",Hospital,ShawneeMssionMed,,,FM,RM,Hospital
+857.962500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+857.987500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+858.237500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+858.387500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 KS Johnson County Corrections",,,,"Project 25",,TRS
+858.962500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+859.237500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+859.337500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 KS Johnson County Corrections",,,,"Project 25",,TRS
+859.637500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+859.962500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 KS Johnson County",,,,"Project 25",,TRS
+860.362500,0.00000," ","Advent Health","Site 003 Overland Park",,,,DMR,,TRS
+861.212500,0.00000," ","Advent Health","Site 001 Shawnee Mission",,,,DMR,,TRS
+927.587500,888.58750,WB0YRG,"BackYard Repeater Group â€“ WBÃ˜YRG","Mission 900 -- 927.5875","BYRG 927.5875","151.4 PL","151.4 PL",FMN,RM,Ham
+935.275000,0.00000," ","Evergy (DMR T3)","Site 037 Shawnee",,,,DMR,,TRS
+935.425000,0.00000," ","Evergy (DMR T3)","Site 037 Shawnee",,,,DMR,,TRS
+935.575000,0.00000," ","Evergy (DMR T3)","Site 037 Shawnee",,,,DMR,,TRS
+935.612500,0.00000," ","Evergy (DMR T3)","Site 056 Gardner(*)",,,,DMR,,TRS
+935.775000,0.00000," ","Evergy (DMR T3)","Site 056 Gardner(*)",,,,DMR,,TRS
+935.862500,0.00000," ","Evergy (DMR T3)","Site 037 Shawnee",,,,DMR,,TRS
+935.925000,0.00000," ","Evergy (DMR T3)","Site 056 Gardner(*)",,,,DMR,,TRS
+939.512500,0.00000," ","Evergy (DMR T3)","Site 083 Stilwell",,,,DMR,,TRS
+939.675000,0.00000," ","Evergy (DMR T3)","Site 083 Stilwell",,,,DMR,,TRS
+939.825000,0.00000," ","Evergy (DMR T3)","Site 083 Stilwell",,,,DMR,,TRS

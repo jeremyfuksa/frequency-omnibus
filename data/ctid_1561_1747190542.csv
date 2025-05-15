@@ -1,0 +1,119 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+118.400000,0.00000,,"Kansas City International Airport (MCI) Kansas City TRACON","MCI Approach A","MCI Approach A",CSQ,,AM,BM,Aircraft
+118.900000,0.00000,,"Kansas City International Airport (MCI) Kansas City TRACON","MCI Approach B","MCI Approach B",CSQ,,AM,BM,Aircraft
+120.750000,0.00000,,"Kansas City International Airport (MCI) Air Traffic Control","Automatic Terminal Information Service (ATIS)","MCI ATIS",CSQ,,AM,B,Aircraft
+120.950000,0.00000,WBJ2,"Kansas City International Airport (MCI) Kansas City TRACON","MCI Approach (Primary)","MCI App-Primary",CSQ,,AM,BM,Aircraft
+121.800000,0.00000,KH9357,"Kansas City International Airport (MCI) Air Traffic Control",Ground,"MCI Ground",CSQ,,AM,BM,Aircraft
+121.800000,0.00000,KT5426,"Kansas City International Airport (MCI) Airlines","MCI Ground","MCI Ground",CSQ,,FM,M,Aircraft
+123.950000,0.00000,,"Kansas City International Airport (MCI) Kansas City TRACON","MCI Departure-East","MCI Dep-E",CSQ,,AM,BM,Aircraft
+124.700000,0.00000,,"Kansas City International Airport (MCI) Kansas City TRACON","MCI Departure-West","MCI Dep-W",CSQ,,AM,BM,Aircraft
+125.750000,0.00000,,"Kansas City International Airport (MCI) Air Traffic Control","Tower Secondary","MCI Tower 2",CSQ,,AM,BM,Aircraft
+128.200000,0.00000,KH9357,"Kansas City International Airport (MCI) Air Traffic Control",Tower,"MCI Tower",CSQ,,AM,BM,Aircraft
+128.900000,0.00000,KPL3,"Kansas City International Airport (MCI) Aviation - Airlines","American: Maintenance","MCI Am Maint",CSQ,,AM,BM,Aircraft
+128.970000,0.00000,,"Kansas City International Airport (MCI) Air Traffic Control","Ramp Control North","MCI Ramp Cntrl N",CSQ,,AM,BM,Aircraft
+129.450000,0.00000,KAB2,"Kansas City International Airport (MCI) Aviation - Airlines","ARINC San Francisco Radio","ARINC SF Radio",CSQ,,AM,BM,Aircraft
+130.150000,0.00000,WXS4,"Kansas City International Airport (MCI) Aviation - Airlines",United,"MCI United",CSQ,,AM,BM,Aircraft
+130.175000,0.00000,KCH5,"Kansas City International Airport (MCI) Aviation - Airlines","American Airlines: Dispatch/Operations","MCI American",CSQ,,AM,BM,Aircraft
+130.820000,0.00000,,"Kansas City International Airport (MCI) Air Traffic Control","Ramp Control South","MCI Ramp Cntrl S",CSQ,,AM,BM,Aircraft
+130.850000,0.00000,WZO8,"Kansas City International Airport (MCI) Aviation - Airlines","US Airways","MCI US Airways",CSQ,,AM,BM,Aircraft
+131.300000,0.00000,KAB2,"Kansas City International Airport (MCI) Aviation - ARINC En Route Service","""San Francisco Radio""","SFO EnrRadio",CSQ,,AM,BM,Aircraft
+131.450000,0.00000,KWH9,"Kansas City International Airport (MCI) Aviation - Airlines",Delta,"MCI Delta",CSQ,,AM,BM,Aircraft
+131.570000,0.00000,,"Kansas City International Airport (MCI) Aviation - Airlines","Frontier Airlines [F9 OPS]","MCI Frontier F9",CSQ,,AM,BM,Aircraft
+131.700000,0.00000,KSR5,"Kansas City International Airport (MCI) Aviation - Airlines",Southwest,"MCI Southwest",CSQ,,AM,BM,Aircraft
+135.700000,0.00000,,"Kansas City International Airport (MCI) Air Traffic Control","Clearance Delivery","MCI Clrnc Del",CSQ,,AM,BM,Aircraft
+145.430000,144.83000,,SKYWARN,"Skywarn-Secondary (Clay Co)",SkywarnClayS,CSQ,CSQ,FM,RM,Ham
+146.400000,0.00000,,SKYWARN,"Skywarn Simplex - Primary",Skywarn,,,FM,BM,Ham
+146.790000,146.29000,,SKYWARN,"Skywarn-Main (Clay Co)",SkywarnClayM,"107.2 PL","107.2 PL",FM,RM,Ham
+147.330000,146.73000,,SKYWARN,"Skywarn-Secondary (Platte Co)",SkywarnPlatS,CSQ,CSQ,FM,RM,Ham
+147.480000,0.00000,,SKYWARN,"Skywarn Simplex - Secondary","Skywarn 2",,,FM,BM,Ham
+151.010000,0.00000,WQFC791,"Platte County","Sheriff [Ch 7]","Platte Sheriff 7",,,FMN,M,"Law Tac"
+153.920000,0.00000,KNNJ417,Weston,"City Operations","Wstn LocGovt",,,FMN,BM,Multi-Talk
+154.025000,159.07500,KQS606,"Platte City","Benefit Assessment Special Road District","PCty Roads",,,FMN,RM,"Public Works"
+154.025000,0.00000,WNJV354,Parkville,"Public Works [Ch 1]","Prkv PubWrks","167.9 PL",,FMN,BM,"Public Works"
+154.055000,0.00000,WQFC791,"Platte County","Sheriff [Ch 8]","Platte Sheriff 8",,,FMN,M,"Law Tac"
+154.340000,159.28500,WPMF880,"Southern Platte Fire Protection District","Fire: Back-Up [Expired 5/13]","SPFPD Back-Up","127.3 PL",,FMN,RM,"Fire Dispatch"
+154.770000,0.00000,KAB663,"Platte County","Sheriff [Ch 4]","Platte Sheriff 4","167.9 PL",,FMN,RM,"Law Talk"
+154.770000,0.00000,WQBU460,"Central Platte Fire Protection District","Fire/EMS: Dispatch South [Expired 12/14]","Platte Fire S",,,FMN,BM,"Fire Dispatch"
+154.882500,153.88250,WPYI954,Riverside,Police/Fire,"Rivr Police/Fire","118.8 PL",,FMN,RM,Multi-Dispatch
+155.250000,153.93500,KAB663,"Platte County","Sheriff: Dispatch - South Tower","Platte Sheriff S","167.9 PL",,FMN,RM,"Law Dispatch"
+155.250000,153.93500,WQBQ849,Riverside,"output/input to Sheriff: South Tower [Expired 11/14]","Plat Shrf S","167.9 PL",,FMN,F,"Law Dispatch"
+155.272500,0.00000,WQFC791,"Platte County","Sheriff: Mobile Extenders","Platte SheriffMX",,,FMN,M,"Law Talk"
+155.340000,0.00000,KNEE267,"Metropolitan Ambulance Services Trust (MAST)","Patient Reports [Expired 3/12]",HEAR340,,,FMN,BM,Hospital
+155.400000,0.00000,KWH479,"Northland Regional Ambulance District (NRAD)","EMS (Smithville)","NRAD EMS 1","131.8 PL",,FMN,BM,EMS-Tac
+155.580000,0.00000,KA60756,Parkville,"Police [Ch 4]","Prkv Police4","186.2 PL",,FMN,BM,"Law Dispatch"
+155.625000,153.86000,KAB663,"Platte County","Sheriff: Dispatch - North Tower","Platte Sheriff N","167.9 PL",,FMN,RM,"Law Dispatch"
+155.715000,0.00000,WNUU683,"Platte County","Sheriff [Ch 5] [Expired 5/13]","Platte Sheriff 5","103.5 PL",,FMN,BM,"Law Talk"
+155.715000,0.00000,WNUU683,"Platte County","Roads and Bridges [Expired 5/13]","Platte Rds/Brdgs",CSQ,,FMN,BM,"Public Works"
+156.000000,0.00000,WQFC791,"Platte County","Sheriff [Ch 9]","Platte Sheriff 9",,,FMN,M,"Law Tac"
+156.120000,0.00000,KQF607,"Platte County","Parkville Special Road District","Parkville Roads","123.0 PL",,FMN,BM,"Public Works"
+159.015000,0.00000,WPPH983,Edgerton,Utilities,"Edgt Utility",,,FMN,M,"Public Works"
+159.195000,0.00000,KNDZ367,"Platte City","Police [Expired 2/23]","PCty Police",,,FMN,BM,"Law Dispatch"
+233.700000,0.00000,,"Kansas City International Airport (MCI) Wheeler Airport (MKC)","UHF Tower","MKC UHF Tower",CSQ,,AM,BM,Aircraft
+254.250000,0.00000,,"Kansas City International Airport (MCI) Air Traffic Control","International UHF Tower","MCI U Int Tower",CSQ,,AM,BM,Aircraft
+284.700000,0.00000,,"Kansas City International Airport (MCI) Kansas City TRACON","MCI App/Dep-W UHF","MCI App-W",CSQ,,AM,BM,Military
+318.100000,0.00000,,"Kansas City International Airport (MCI) Kansas City TRACON","MCI App/Dep-E UHF","MCI App-E ",CSQ,,AM,BM,Military
+442.300000,447.30000,W0OES,"Metro KC Emergency Communication Services","Main Dispatch [Disp 1]","W0OES Disp 1",,,DMR,RM,Ham
+443.450000,448.45000,W0OES,"Metro KC Emergency Communication Services","Main Response [Tact 1]","W0OES Tact 1",,,DMR,RM,Ham
+451.212500,0.00000,WQJA803,"Consolidated Public Water Supply District #1 of Platte County","Water Distribution Data","CPWSD1 WDD",,,Telm,F,Data
+451.212500,0.00000,WPSM666,"Consolidated Public Water Supply District #1 of Platte County",Operations,"CPWSD1 Ops",,,FMN,BM,"Public Works"
+451.350000,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+451.500000,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+451.725000,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+451.875000,456.87500,WPIN461,"Businesses, Attractions and Recreation Argosy Riverside Casino","Maintenance [Ch 2]","ARC Maintenance","88.5 PL",,FMN,BM,Business
+452.000000,457.00000,WPIN461,"Businesses, Attractions and Recreation Argosy Riverside Casino","Security [Ch 1]","ARC Security 1","91.5 PL",,FMN,BM,Security
+452.000000,0.00000,WPIN461,"Businesses, Attractions and Recreation Argosy Riverside Casino","Security - Back Up","ARC Sec 7 ","91.5 PL",,FMN,BM,Business
+452.287500,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+453.762500,458.76250,WPLZ588,"Platte City","Public Works","PCty PubWrks",,,FMN,RM,"Public Works"
+455.000000,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+460.700000,465.70000,WNSG233,"Kansas City International Airport (MCI) Airlines","Delta Air Lines: Ramp","Delta Ramp 101","CC 1|TG 101|SL 1",,DMR,RM,Business
+460.700000,465.70000,WNSG233,"Kansas City International Airport (MCI) Airlines","Delta Air: Gate Agents","Delta Gate","CC 1|TG *|SL 1",,DMR,RM,Business
+460.700000,465.70000,WNSG233,"Kansas City International Airport (MCI) Airlines","Delta Air Lines: Gates","Delta Gates 102","CC 1|TG 102|SL 2",,DMR,RM,Business
+460.725000,465.72500,KZA731,"Kansas City International Airport (MCI) Airlines","United: Bags","United Bags 1","CC 2|TG 1|SL *",,DMR,RM,Business
+460.725000,465.72500,,"Kansas City International Airport (MCI) Airlines","United: Ramp","United Ramp",,,FMN,RM,Business
+461.150000,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+461.225000,466.22500,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino",Operations,"ARC Ops A","411 DPL",,FMN,BM,Business
+461.450000,466.45000,KNEH564,"Platte County R3 School District",Operations,"PlttCo Sch 1",,,FMN,BM,Schools
+461.475000,0.00000,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino","Food and Beverage [Ch. 6]","ARC Food/Bev 6",,,FMN,BM,Business
+461.875000,466.87500,WPXQ263,"Kansas City International Airport (MCI) Airlines","SouthWest: Ops","SW Ops 105","CC 9|TG 105|SL 1",,DMR,RM,Business
+462.000000,0.00000,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino",Operations,"ARC Ops B",,,FMN,BM,Business
+462.137500,0.00000,KNEH564,"Platte County R3 School District",Operations,"PlttCo Sch 2",,,FMN,M,Schools
+462.300000,467.30000,WNRZ627,"Park Hill Schools","First Student Buses (Park Hill SD)","FS Bus PHill","173.8 PL",,FMN,RM,Schools
+462.375000,467.37500,WPXQ263,"Kansas City International Airport (MCI) Airlines","SouthWest: Ramp","SW Ramp 101","CC 9|TG 101|SL 1",,DMR,RM,Business
+462.375000,467.37500,WPXQ263,"Kansas City International Airport (MCI) Airlines","SouthWest: Bagroom/Baggage Service Office","SW Baggage 104","CC 9|TG 104|SL 2",,DMR,RM,Business
+462.412500,0.00000,"WQOA222 ","Kansas City International Airport (MCI) Gateway Group One","TSA Contract Screeners","FrntLine 1",,,FMN,M,Security
+462.425000,467.42500,WPPE975,"Park Hill Schools",Operations,"PH SD 1",,,FMN,RM,Schools
+462.875000,0.00000,WPYU535,"Businesses, Attractions and Recreation Argosy Riverside Casino","Paging (4 pagers)","ARC Paging ",,,FMN,BM,Data
+463.450000,468.45000,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino","Hotel Ops [Ch 11]","ARC Hotel 11",,,FMN,RM,Business
+463.500000,0.00000,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino",Operations,"ARC Ops C",,,FMN,BM,Business
+463.587500,468.58750,WPLZ697,"Kansas City International Airport (MCI) Airlines","American Air: Gate Agents","American Gate","CC 1|TG *|SL 1",,DMR,RM,Business
+463.600000,0.00000,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino",Operations,"ARC Ops D",,,FMN,BM,Business
+463.737500,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+464.075000,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+464.150000,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+464.300000,469.30000,WPRK457,"Park Hill Schools","Senior High School: Security (FB Game)","PHSHS UHF-6","CC 1|TG 3000|SL 1",,DMR,RM,Security
+464.462500,0.00000,KNEH564,"Platte County R3 School District",Operations,"PlttCo Sch 3",,,FMN,M,Schools
+464.612500,0.00000,KNEH564,"Platte County R3 School District",Operations,"PlttCo Sch 4",,,FMN,M,Schools
+464.837500,0.00000," ","MotoNet CP+ (DMR)","Site 013 KCI (Kansas City)",,,,DMR,,TRS
+464.875000,0.00000,WPIN461,"Businesses, Attractions and Recreation Argosy Riverside Casino","Environmental Services (was D411?) [Ch 4]","ARC EVS 4","88.5 PL",,FMN,BM,Business
+464.875000,0.00000,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino",Operations,"ARC Ops E",,,FMN,BM,Business
+464.925000,0.00000,WPIN461,"Businesses, Attractions and Recreation Argosy Riverside Casino",Operations,"ARC Ops G","431 DPL",,FMN,BM,Business
+464.925000,0.00000,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino",Operations,"ARC Ops F",,,FMN,BM,Business
+464.950000,469.95000,WPFH202,"Businesses, Attractions and Recreation Argosy Riverside Casino","Slots [Ch 3]","ARC Slots 3",,,FMN,BM,Business
+464.975000,0.00000,WPIN461,"Businesses, Attractions and Recreation Argosy Riverside Casino",Operations,"ARC Ops H","411 DPL",,FMN,BM,Business
+467.237500,0.00000,WQOA222,"Kansas City International Airport (MCI) Gateway Group One","TSA Contract Screeners","FrntLine 2",,,FMN,M,Security
+467.250000,0.00000,WQOA222,"Kansas City International Airport (MCI) Gateway Group One","TSA Contract Screeners","FrntLine 3",,,FMN,M,Security
+467.387500,0.00000,WQOA222,"Kansas City International Airport (MCI) Gateway Group One","TSA Contract Screeners","FrntLine 4",,,FMN,M,Security
+467.412500,0.00000,WQOA222,"Kansas City International Airport (MCI) Gateway Group One","TSA Contract Screeners","FrntLine 5",,,FMN,M,Security
+467.962500,0.00000,KWH479,"Northland Regional Ambulance District (NRAD)","EMS: Mobile Extenders","NRAD EMS MX",,,FMN,M,EMS-Tac
+855.462500,810.46250,WPUJ962,"Metropolitan Ambulance Services Trust (MAST)","Mobile Data Terminals / GPS Data [Expired 9/12]","MAST MDTs",,,Telm,BM,Data
+855.462500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 MO Platte County",,,,"Project 25",,TRS
+856.262500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 MO Platte County",,,,"Project 25",,TRS
+856.737500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 MO Platte County",,,,"Project 25",,TRS
+857.262500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 MO Platte County",,,,"Project 25",,TRS
+857.437500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 MO Platte County",,,,"Project 25",,TRS
+858.262500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 MO Platte County",,,,"Project 25",,TRS
+858.437500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 003 MO Platte County",,,,"Project 25",,TRS
+935.512500,0.00000," ","Evergy (DMR T3)","Site 088 Platte MO",,,,DMR,,TRS
+935.900000,0.00000," ","Evergy (DMR T3)","Site 088 Platte MO",,,,DMR,,TRS
+936.025000,0.00000," ","Evergy (DMR T3)","Site 090 Weston (*)",,,,DMR,,TRS
+936.375000,0.00000," ","Evergy (DMR T3)","Site 090 Weston (*)",,,,DMR,,TRS

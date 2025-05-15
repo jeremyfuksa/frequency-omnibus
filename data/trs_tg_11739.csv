@@ -1,0 +1,8 @@
+Decimal,Hex,Alpha Tag,Mode,Description,Tag,Category
+101,065,"Security","T","Security","Security","All"
+102,066,"Custodial","T","Custodial","Business","All"
+103,067,"Maintenance","T","Maintenance","Business","All"
+104,068,"Exhibits 104","T","Exhibits","Business","All"
+105,069,"Museum Ops 105","T","Museum Ops","Business","All"
+106,06a,"Museum Ops 106","T","Museum Ops","Business","All"
+107,06b,"Exhibits 107","T","Exhibits","Business","All"

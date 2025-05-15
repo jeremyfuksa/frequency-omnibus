@@ -1,0 +1,5 @@
+Decimal,Hex,Alpha Tag,Mode,Description,Tag,Category
+1,001,"Security","T","Mercy Children's Security","Security","ALL Talkgroups"
+9,009,"Emer Dept","T","Emergency Department","Hospital","ALL Talkgroups"
+11,00b,"Maintenance","T","Maintenance","Hospital","ALL Talkgroups"
+12,00c,"Housekeep","T","Hospital Housekeeping","Hospital","ALL Talkgroups"

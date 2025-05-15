@@ -1,0 +1,441 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+146.700000,146.10000,,SKYWARN,"Secondary Repeater","KC SkyWarn 2","107.2 PL","107.2 PL",FM,RM,Ham
+147.270000,147.87000,,SKYWARN,"Primary Repeater","KC SkyWarn 1",CSQ,CSQ,FM,RM,Ham
+151.010000,0.00000,WPMR319,Greenwood,"Police: Dispatch [Simulcast of MARRS TG 34361]","Grnwd Police","411 DPL",,FMN,BM,"Law Dispatch"
+151.175000,0.00000,WPNY906,"Grain Valley","Police: Dispatch [Simulcast of MARRS TG 34361]","GVal Police","210.7 PL",,FMN,BM,"Law Dispatch"
+151.340000,153.86000,KNJG679,Government,"Park Rangers [Expired 12/24]","Jackson Parks","186.2 PL",,FMN,RM,"Law Tac"
+151.570000,0.00000,,"Businesses Miscellaneous","Walmart Super Center (Ch 6)","WalMart Ch 6","131 DPL",,FMN,M,Business
+151.595000,159.99000,WPZT299,"Independence Public Schools","Truman High School: Bus / Security","TrumanHigh A","22 RAN",,NXDN48,RM,Schools
+151.600000,0.00000,,"Businesses Miscellaneous","Walmart Super Center (Ch 7)","WalMart Ch 7","131 DPL",,FMN,M,Business
+151.820000,0.00000,,"Businesses Miscellaneous","Walmart Super Center (Ch 3) (LP uses this a lot)","WalMart Ch 3","131 DPL",,FMN,M,Business
+151.880000,0.00000,,"Businesses Miscellaneous","Walmart Super Center (Ch 4)","WalMart Ch 4","131 DPL",,FMN,M,Business
+151.940000,0.00000,,"Businesses Miscellaneous","Walmart Super Center (Ch 5)","WalMart Ch 5","131 DPL",,FMN,M,Business
+154.040000,0.00000,WZX525,Raytown,"Parks and Recreation [Expired 7/14]","Raytown Parks","167.9 PL",,FMN,BM,"Public Works"
+154.130000,153.90500,KNIS980,"Mid-America Regional Council","MERS: Metropolitan Emergency Radio Service - Link w/ NWS","MERS Radio","151.4 PL",,FMN,RM,"Emergency Ops"
+154.160000,0.00000,WPRV825,"Central Jackson County Fire Protection District","Fire: Operations 2","CJCFPD Ops2","162.2 PL",,FMN,BM,Fire-Tac
+154.220000,0.00000,WPRV825,"Central Jackson County Fire Protection District","Fire: Operations 1","CJCFPD Ops1","162.2 PL",,FMN,BM,Fire-Tac
+154.265000,0.00000,,"Central Jackson County Fire Protection District","Fire: Command 1","CJCFPD Com1",,,FMN,M,Fire-Tac
+154.295000,0.00000,,"Central Jackson County Fire Protection District","Fire: Command 2","CJCFPD Com2",,,FMN,M,Fire-Tac
+154.370000,0.00000,WPRV825,"Central Jackson County Fire Protection District","Fire: Dispatch","CJCFPD Disp","162.2 PL",,FMN,BM,"Fire Dispatch"
+154.370000,0.00000,KNDW216,"Fort Osage Fire Protection District",Fire,"FIre 154.37",,,FMN,BM,Fire-Tac
+154.385000,158.80500,WPBQ636,"Inter City/Blue Summit","Fire: Dispatch/Ops [Ch 1]",IntrCityFire,"103.5 PL",,FMN,RM,"Fire Dispatch"
+154.430000,156.09000,KVI536,"Lake Lotawana","Fire: Dispatch","LakLot Fire","173.8 PL",,FMN,RM,"Fire Dispatch"
+154.430000,0.00000,KNDW216,"Fort Osage Fire Protection District","Fire: Dispatch - Base (DB: Lee's Summit)","FtO Fire Bas","173.8 PL",,FMN,BM,"Fire Dispatch"
+154.430000,0.00000,KNDW216,"Fort Osage Fire Protection District","Fire: Dispatch - Units (DB: Lee's Summit)","FtO Fire Mob","88.5 PL",,FMN,BM,"Fire Dispatch"
+154.430000,0.00000,KNDW216,"Fort Osage Fire Protection District","Fire: Dispatch - All  (DB: Lee's Summit)","FtO Fire CSQ",CSQ,,FMN,BM,"Fire Dispatch"
+154.570000,0.00000,,"Businesses Miscellaneous","Walmart Super Center (Ch 1) (used by all Metro area stores)","WalMart Ch 1",CSQ,,FMN,M,Business
+154.600000,0.00000,,"Businesses Miscellaneous","Walmart Super Center (Ch 2)","WalMart Ch 2",CSQ,,FMN,M,Business
+154.755000,0.00000,WNBX955,Government,"Detention Center [Ch 2] [Expired 8/24]","Jack Det Cntr 2","110.9 PL",,FMN,BM,Corrections
+154.815000,0.00000,KGW670,"Blue Springs","Police: Tactical [Ch 2]","BSpr PD Tac 2 ","162.2 PL",,FMN,M,"Law Tac"
+154.815000,0.00000,WQAX848,"Central Jackson County Fire Protection District","Fire: Operations","CJCFPD Ops3",,,FMN,F,Fire-Tac
+154.865000,0.00000,WPDC663,"Blue Springs","Police: Ops [Ch 3]","BSpr PD Ops 3","162.2 PL",,FMN,BM,"Law Tac"
+154.935000,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 024 Independence",,,,"Project 25",,TRS
+155.085000,0.00000,WPNY906,"Grain Valley","Police: Car-to-Car","GVal PD C2C",CSQ,,FMN,M,"Law Tac"
+155.115000,0.00000,KLP764,"Oak Grove","Public Works / EMA / Warning Sirens","OakG PubWrks","146.2 PL",,FMN,BM,Multi-Dispatch
+155.310000,159.15000,KVI536,"Lake Lotawana","Fire: Local [Ch 2]","LakLot Fire 2","97.4 PL",,FMN,RM,Fire-Tac
+155.340000,0.00000,WQFP648,"Hospitals University Health Lakewood Medical Center","Jackson County Public Health Clinic [Expired 9/16]",HEAR340,,,FMN,BM,Hospital
+155.542500,158.91750,KDT360,"Sugar Creek","Police / Fire: Dispatch [Expired 9/21]","SCrk Police/Fire","141.3 PL",,FMN,RM,Multi-Dispatch
+155.625000,153.74000,WPCQ804,"Lake Lotawana","Police: Tactical [Ch 4] [Expired 7/22]","LLot Police4","114.8 PL",,FMN,RM,"Law Tac"
+155.745000,0.00000,KGW671,"Blue Springs","Public Works / Water","BSpr PubWrks","162.2 PL",,FMN,BM,"Public Works"
+155.745000,0.00000,WQAX848,"Central Jackson County Fire Protection District","Fire: Operations","CJCFPD Ops4",,,FMN,F,Fire-Tac
+155.752500,0.00000,,Buckner,"Conservation (assumed on VTAC 10)","Buck Cons",,,FMN,M,"Public Works"
+155.775000,0.00000,WQAE576,Buckner,"Police: Car-to-Car","Buck PD c2c",,,FMN,BM,"Law Tac"
+155.790000,0.00000,KAH757,Government,"Law: Dispatch (for Lake Lotawana, Lake Tapawingo, Lone Jack) [Simulcast of MARRS TG 34361] <b>[Expired 6/23]","Jackson Law","156.7 PL",,FMN,BM,"Law Dispatch"
+155.865000,154.72500,WPDC663,"Blue Springs","Police: Dispatch","BSpr Police","162.2 PL",,FMN,RM,"Law Dispatch"
+155.880000,158.95500,KDT360,"Sugar Creek","Public Works [Expired 9/21]","SCrk PublicWorks","141.3 PL",,FMN,BM,"Public Works"
+155.902500,159.46500,WQGX290,"Lone Jack","Police: Local","LJck Police",,,FMN,RM,"Law Dispatch"
+155.940000,0.00000,WZN205,"Lees Summit","Street Department","LS Streets","186.2 PL",,FMN,BM,"Public Works"
+155.970000,0.00000,WPNY906,"Grain Valley","Police: Mobiles (to County 155.79 R)","Jack SD DspM","156.7 PL",,FMN,M,"Law Tac"
+156.000000,0.00000,KB31788,Government,"Courthouse Maintenance [Expired 4/03]","Jack Shrf Cths","606 DPL",,FMN,M,"Public Works"
+156.195000,0.00000,WZN205,"Lees Summit","Public Works","LS PubWrks ","186.2 PL",,FMN,BM,"Public Works"
+156.210000,0.00000,WNBX955,Government,"Detention Center [Ch 1] [Expired 8/24]","Jack Det Cntr 1","110.9 PL",,FMN,BM,Corrections
+156.225000,0.00000,KNJN472,Government,"Public Works/Roads [Expired 4/13]","Jackson Roads","186.2 PL",,FMN,BM,"Public Works"
+158.760000,0.00000,WQPK453,"Unity Village","Local Government","UnityVill LG",,,FMN,BM,Multi-Dispatch
+158.850000,155.79000,WPQI860,Buckner,"Police (repeats Jackson County Sheriff Dispatch)","Buck Police","156.7 PL",,FMN,RM,"Law Dispatch"
+158.880000,159.04500,WZN205,"Lees Summit","Public Works","LS PubWrks R","186.2 PL",,FMN,RM,"Public Works"
+159.090000,155.91000,KAJ606,"Lees Summit","Fire: Operations [Red 1]","LS Fire Red 1","186.2 PL",,FMN,RM,Fire-Tac
+159.120000,155.79000,WSB834,"Oak Grove","Police: Dispatch [Simulcast of MARRS TG 34361]","OakG Police","210.7 PL",,FMN,RM,"Law Dispatch"
+159.390000,0.00000,WPMQ965,"Fort Osage Fire Protection District",Fireground,"FtOsage FG1",,,FMN,M,Fire-Tac
+168.825000,0.00000,,Miscellaneous,"FBI: Ops (KC/Clinton County)","FBI 168.825","167 NAC",,P25,RM,"Law Tac"
+169.650000,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 024 Independence",,,,"Project 25",,TRS
+170.512500,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 024 Independence",,,,"Project 25",,TRS
+171.387500,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 024 Independence",,,,"Project 25",,TRS
+172.725000,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 024 Independence",,,,"Project 25",,TRS
+172.837500,0.00000,,Miscellaneous,"Federal Government Ops","Fed 1738375 1-2","CC 1|TG 2|SL 2",,DMR,RM,Federal
+406.187500,0.00000," ","NNSA National Security Campus","Site 001 National Security Campus",,,,"Project 25",,TRS
+406.937500,415.93750,,"USPS - Kansas City Bulk Mail Center","Mail Sorting","USPS KC Sort 1","CC 1|TG 1|SL *",,DMR,RM,Federal
+406.937500,415.93750,,"USPS - Kansas City Bulk Mail Center",Maintenance,"USPS KC Maint 2","CC 1|TG 2|SL *",,DMR,RM,Federal
+406.987500,0.00000," ","NNSA National Security Campus","Site 001 National Security Campus",,,,"Project 25",,TRS
+407.300000,0.00000," ","NNSA National Security Campus","Site 001 National Security Campus",,,,"Project 25",,TRS
+407.587500,0.00000," ","NNSA National Security Campus","Site 001 National Security Campus",,,,"Project 25",,TRS
+407.987500,0.00000," ","NNSA National Security Campus","Site 001 National Security Campus",,,,"Project 25",,TRS
+409.775000,0.00000," ","NNSA National Security Campus","Site 001 National Security Campus",,,,"Project 25",,TRS
+444.925000,0.00000," ","Missouri BrandMeister DMR","Site 118 Independence",,,,DMR,,TRS
+450.050000,0.00000,KXF978,"Businesses Television","WDAF TV4 NEWS","WDAF4 NEWS","162.2 PL",,FM,BM,Media
+450.187500,0.00000,KEH381,"Businesses Television","KMBC-9 [Hearst]","KMBC-9 CH 1","136.5 PL",,FM,RM,Media
+450.212500,0.00000,KPE669,"Businesses Television","KMBC-9 NewsChopper 9 [Hearst]","KMBC CH 2","136.5 PL",,FM,RM,Media
+450.287500,0.00000,WZZ741,"Businesses Television","WDAF TV4 ENG","WDAF4 ENG","162.2 PL",,FM,BM,Media
+450.350000,0.00000,KPF947,"Businesses Radio","MIX 93 (Remotes-can drag for long time} [Wilks]","Wilks Mix 93",CSQ,,FM,BM,Media
+450.487500,0.00000,WPYS232,"Businesses Television","KMBC TV IFB","KMBC IFB","136.5 PL",,FM,BM,Media
+450.612500,0.00000,KPH764,"Businesses Television","KSHB TV 41","KSHB TV 41","152 DPL",,FM,BM,Media
+450.675000,0.00000,KPH373,"Businesses Radio","Metro Traffic Spotters Coordination",MetroTraffic,"192.8 PL",,FM,BM,Media
+450.750000,0.00000,KY5506,"Businesses Radio","KUDL / KMBZ [Entercom KC]","KUDL / KMBZ",CSQ,,FM,BM,Media
+450.950000,0.00000,KXF979,"Businesses Television","WDAF IFB","WDAF4 IFB","162.2 PL",,FM,B,Media
+451.112500,0.00000,WQHP371,"Grain Valley","Water Distribution Data (CSQ)","GVal WDD2",,,Telm,F,Data
+451.287500,0.00000,WQIF916,"Attractions and Recreation Kansas City Live",Operations,"KC Live Ops2",,,DMR,M,Business
+451.300000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+451.325000,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+451.375000,456.37500,WPNV689,"Businesses Union Station","Maintenance <b>[Expired 7/23]","UnSta Maintnce","431 DPL",,FMN,RM,Business
+451.500000,456.50000,KB33450,"Attractions and Recreation Kaufman Stadium / Kansas City Royals",Parking/Operations,"KS Prkng/Ops","205 DPL",,FMN,RM,Business
+451.550000,456.55000,WPJH869,"Hospitals Children's Mercy Hospital (Kansas City)","Nursing A","CMH NursingA","186.2 PL",,FMN,RM,Business
+451.550000,456.55000,WPJH869,"Hospitals Children's Mercy Hospital (Kansas City)","Nursing B","CMH NursingB","162.2 PL",,FMN,RM,Business
+451.625000,456.62500,WNZU736,"Businesses Newspapers","Kansas City Star: Maintenance [Expired 6/22]","KCStar Maintnce","156.7 PL",,FMN,RM,Business
+451.712500,0.00000,WQBF874,"Grain Valley","Water Distribution Data","GVal WDD1",,,Telm,M,Data
+451.825000,0.00000," ","Nelson-Atkins Museum of Art","Site 001 Primary",,,,DMR,,TRS
+451.875000,0.00000,WPZS270,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance/Security,"CMH Ops C",,,FMN,M,Business
+451.912500,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+451.925000,456.92500,KB33450,"Attractions and Recreation Kaufman Stadium / Kansas City Royals",Security/Operations,"KS Sec/Ops","223 DPL",,FMN,RM,Security
+451.937500,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+451.950000,456.95000,WPMS803,"Businesses Midtown/Plaza Businesses","American Century Investments: Security","ACI - CH 1","127.3 PL",,FMN,RM,Security
+452.000000,0.00000," ","Nelson-Atkins Museum of Art","Site 001 Primary",,,,DMR,,TRS
+452.075000,457.07500,WQAB912,"Businesses Midtown/Plaza Businesses","American Century Investments","ACI - Ch 2","127.3 PL",,FMN,RM,Security
+452.137500,0.00000,WQIF916,"Attractions and Recreation Kansas City Live",Operations,"KC Live Ops3",,,DMR,M,Business
+452.150000,457.15000,WQCS403,"Businesses Transportation","Checker Services: Cabs","Checker Cab 2 ",,,FMN,RM,Transportation
+452.175000,457.17500,WPRH740,"Raytown Consolidated School District",Buses,RaytownSchBus100,"CC 2|TG 100|SL 1",,DMR,RM,Schools
+452.200000,0.00000," ","Nelson-Atkins Museum of Art","Site 001 Primary",,,,DMR,,TRS
+452.212500,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+452.262500,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+452.300000,457.30000,WQCS403,"Businesses Transportation","Checker Services: Cabs","Checker Cab 1 ",,,FMN,RM,Transportation
+452.312500,0.00000,WPZT299,"Independence Public Schools","William Chrisman High School","ChsmnHS Ops",,,FMN,M,Schools
+452.350000,457.35000,WQDV255,"Hospitals St. Lukes Hospital East (Lees Summit)",Operations,"SLHE Ops",,,FMN,RM,Business
+452.375000,457.37500,WPNV689,"Businesses Union Station","Operations <b>[Expired 7/23]","UnSta Ops",,,FMN,RM,Business
+452.475000,0.00000," ","Bayer CropScience Kansas City","Site 001 Primary",,,,DMR,,TRS
+452.487500,0.00000,WQIF916,"Attractions and Recreation Kansas City Live",Operations,"KC Live Ops4",,,DMR,M,Business
+452.500000,0.00000,WPZS270,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance/Security,"CMH Ops D",,,FMN,M,Business
+452.500000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+452.625000,457.62500,WQAB912,"Businesses Midtown/Plaza Businesses","American Century Investments","ACI - CH 3","127.3 PL",,FMN,RM,Security
+452.625000,457.62500,WQNN884,"Kansas City University of Medicine and Biosciences",Security,"KCUMB Ops 1","CC 13|TG 1|SL 1",,DMR,RM,Schools
+452.625000,457.62500,WQNN884,"Kansas City University of Medicine and Biosciences","Maintenance / Engineering","KCUMB Ops 2","CC 13|TG 2|SL 2",,DMR,RM,Schools
+452.662500,0.00000,WQIF916,"Attractions and Recreation Kansas City Live",Operations,"KC Live Ops5",,,FMN,M,Business
+452.675000,0.00000,KB33450,"Attractions and Recreation Kaufman Stadium / Kansas City Royals","Tac [Ch 6]","KS Tac F-6","245 DPL",,FMN,M,Business
+452.725000,457.72500,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Practice Ops","AS Practice","445 DPL",,FMN,RM,Business
+452.725000,0.00000,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations","AS 452.725",,,FMN,M,Business
+452.725000,0.00000," ","Kansas City Chiefs Football Club","Site 001 GEHA Stadium (Arrowhead)",,,,DMR,,TRS
+452.775000,0.00000," ","Bayer CropScience Kansas City","Site 001 Primary",,,,DMR,,TRS
+452.850000,457.85000,WQAB912,"Businesses Midtown/Plaza Businesses","American Century Investments","ACI - CH 4","127.3 PL",,FMN,RM,Security
+452.850000,0.00000," ","Bayer CropScience Kansas City","Site 001 Primary",,,,DMR,,TRS
+452.862500,457.86250,WQIN878,"Kansas City University of Medicine and Biosciences","Security / Operations [Expired 3/18]","KCUMB Old","073 DPL",,FMN,RM,Schools
+452.975000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+453.012500,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+453.037500,0.00000,KVI536,"Lake Lotawana","Fire: Remote Link","LkLot Fire RF1",,,FMN,F,"Fire Dispatch"
+453.050000,458.05000,KNAB909,"Kansas City Public Safety","Outdoor Warning Sirens (MSK)","KC OW Sirens","050 DPL",,FMN,RM,"Emergency Ops"
+453.112500,458.11250,,"Lees Summit","Solid Waste","LS SWaste","131.8 PL",,FMN,RM,"Public Works"
+453.150000,458.15000,WPRV735,"Lees Summit","Police: Administration [Expired 6/21]","LS PD Adm","203.5 PL",,FMN,RM,"Law Dispatch"
+453.300000,458.30000,WQHM903,"Kansas City - Parks and Recreation","Kansas City Zoo [Expired 9/17]",KCZooPrimary,"82.5 PL",,FMN,RM,"Public Works"
+453.325000,0.00000," ","Kansas City Area Transportation Authority","Site 001 WDAF Tower",,,,DMR,,TRS
+453.350000,458.35000,WPRV735,"Lees Summit","Police: Patch to MOLEEN 155.475 [Expired 6/21]","LS PD MA*P","306 DPL",,FMN,RM,"Law Dispatch"
+453.425000,458.42500,WPRV735,"Lees Summit","Police: Patrol A [Expired 6/21]","LS Police A","103.5 PL",,FMN,RM,"Law Dispatch"
+453.500000,458.50000,WPRV735,"Lees Summit","Police: Animal Control [Expired 6/21]","LS Animal Cntrl","114 DPL",,FMN,RM,"Law Tac"
+453.525000,458.52500,WZN205,"Lees Summit","Fire: Operations [Yellow 3-Ch 2] (was D723)","LS Fire Yellow 3","186.2 PL",,FMN,RM,Fire-Tac
+453.550000,458.55000,WQGX897,"Kansas City - Parks and Recreation","Kansas City Zoo: Operations, Safety, Security [Expired 5/17]","KCZoo Ops",,,FMN,RM,"Public Works"
+453.575000,458.57500,WQLH720,"Lees Summit","Fire: EMS-to-Hospital [Yellow 5] [Expired 1/20]","LS Fire Yellow 5","107.2 PL",,FMN,RM,Hospital
+453.662500,0.00000,WQEU237,"Kansas City Public Safety","Police: Bomb Robot - Data","KC PD Bomb1",,,Telm,M,Data
+453.675000,458.67500,WQHM903,"Kansas City - Parks and Recreation","Kansas City Zoo [Expired 9/17]","KCZoo Tac","131.8 PL",,FMN,RM,"Public Works"
+453.725000,458.72500,WPRV735,"Lees Summit","Police: Traffic B [Expired 6/21]","LS Police B","172 DPL",,FMN,RM,"Law Dispatch"
+453.800000,458.80000,WQHM903,"Kansas City - Parks and Recreation","Kansas City Zoo  [Expired 9/17]","KCZoo MERS*P","77.0 PL",,FMN,RM,"Public Works"
+453.850000,458.85000,WQHM903,"Kansas City - Parks and Recreation","Kansas City Zoo [Ch 5] [Expired 9/17]","KCZoo Ch. 5","141.3 PL",,FMN,RM,"Public Works"
+453.875000,0.00000," ","Kansas City Area Transportation Authority","Site 001 WDAF Tower",,,,DMR,,TRS
+453.900000,458.90000,KCZ477,"Lees Summit","Fire: Dispatch [Yellow 1/ Yel 2  T/A] (was D723)","LS Fire Yellow 1","167.9 PL",,FMN,RM,"Fire Dispatch"
+453.925000,0.00000," ","Kansas City Area Transportation Authority","Site 001 WDAF Tower",,,,DMR,,TRS
+453.950000,0.00000," ","Kansas City Area Transportation Authority","Site 001 WDAF Tower",,,,DMR,,TRS
+454.062500,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+454.087500,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+454.087500,0.00000," ","KC Wireless (Tier 3)","Site 007 Kansas City MO",,,,DMR,,TRS
+454.237500,0.00000," ","KC Wireless (Tier 3)","Site 007 Kansas City MO",,,,DMR,,TRS
+454.375000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+454.400000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+454.425000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+454.450000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+454.475000,0.00000," ","KC Wireless (LTR)","Site 001 Kansas City LTR",,,,LTR,,TRS
+454.475000,0.00000," ","KC Wireless (Tier 3)","Site 007 Kansas City MO",,,,DMR,,TRS
+454.500000,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+454.550000,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+454.575000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+454.600000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+455.150000,0.00000,KY5506,"Businesses Radio","KFKF SkyCruiser / Metro Traffic (Marti) [Entercom]","KFKF SC/MTr",CSQ,,FM,BM,Media
+458.037500,0.00000,KVI536,"Lake Lotawana","Fire: Remote Link","LkLot Fire RF2",,,FMN,F,"Fire Dispatch"
+458.662500,0.00000,WQEU237,"Kansas City Public Safety","Police: Bomb Robot - Voice","KC PD Bomb2",,,FMN,M,"Law Tac"
+458.887500,0.00000,KNDW216,"Fort Osage Fire Protection District","Remote Receive Link","FtOsageFD RF",,,FMN,M,"Fire Dispatch"
+460.025000,465.02500,KQL882,Raytown,"Police: Dispatch (Used for Raytown Crime Watch Patrol)","Raytown Police","107.2 PL",,FMN,RM,"Law Dispatch"
+460.162500,465.16250,WZM850,"Department of Corrections","Probation & Parole Office (1330 Brush Creek Blvd)","MO DOC Parole KC","141.3 PL",,FMN,RM,Corrections
+460.350000,465.35000,WZN205,"Lees Summit","Fire: Administration [Yellow 7]","LS Fire Yellow 7","107.2 PL",,FMN,RM,Fire-Tac
+460.387500,465.38750,KCZ477,"Lees Summit","Public Works / Snow Removal","LS PW/Snow","032 DPL",,FMN,RM,"Public Works"
+460.462500,465.46250,WQPK766,"Lees Summit","Codes Administration (200 numbers) [Expired 6/22]","LS Codes","115 DPL",,FMN,RM,"Public Works"
+460.575000,465.57500,WPXJ409,"Prairie Township (Lees Summit)","Fire: Dispatch [Expired 4/13]","Prairie Twp Fire","79.7 PL",,FMN,RM,"Fire Dispatch"
+461.025000,466.02500,WPNV689,"Businesses Union Station","Security <b>[Expired 7/23]","UnSta Security ","331 DPL",,FMN,RM,Security
+461.037500,0.00000,,"Businesses Miscellaneous","Target (all KC Metro stores; Ch1 )","Target KC Ch 1",,,FMN,M,Business
+461.100000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+461.100000,0.00000," ","Ballys Kansas City","Site 001 Casino",,,,DMR,,TRS
+461.125000,466.12500,WPTR714,"Rockhurst College (Kansas City)",Maintenance,"RC Maintnanc","103.5 PL",,FMN,RM,Schools
+461.175000,465.17500,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","MAST Ambulance/EMS","AS MAST EMS","192.8 PL",,FMN,RM,"EMS Dispatch"
+461.175000,466.17500,WPWE421,"Hospitals St. Mary's Medical Center (Blue Springs MO)","Security / Maintenance / Emergency Response Team","SMMC Ops 1","103.5 PL",,FMN,RM,Business
+461.187500,466.18760,WPZT299,"Independence Public Schools","Van Horn High School: Bus / Base / Security","VH School",,,FMN,RM,Schools
+461.200000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+461.200000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+461.250000,0.00000," ","GEHA Insurance","Site 001 Independence",,,,DMR,,TRS
+461.275000,466.27500,WSFM280,"Hospitals St. Lukes Hospital (Kansas City)",Maintenance,"SLH Maint 1","100.0 PL",,FMN,RM,Business
+461.275000,0.00000," ","KC Wireless (LTR)","Site 001 Kansas City LTR",,,,LTR,,TRS
+461.350000,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+461.375000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+461.387500,466.38750,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations","AS 4613875",,,DMR,RM,Business
+461.387500,0.00000," ","Kansas City Chiefs Football Club","Site 001 GEHA Stadium (Arrowhead)",,,,DMR,,TRS
+461.400000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+461.400000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+461.425000,467.42500,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations","AS 461.425",,,FMN,RM,Business
+461.450000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+461.475000,466.47500,WQAF224,"Attractions and Recreation Kemper Arena","Operations [Expired 5/14]","KA AmRoyal 1","051 DPL",,FMN,RM,Business
+461.487500,466.48750,WQGT220,"Attractions and Recreation Country Club Plaza (Kansas City)",Security,"CCP Security 1","CC 4|TG 101|SL 1",,DMR,RM,Security
+461.487500,466.48750,WQGT220,"Attractions and Recreation Country Club Plaza (Kansas City)",Custodians,"CCP Custodian103","CC 4|TG 103|SL *",,DMR,RM,Business
+461.525000,0.00000,KNDW793,"Attractions and Recreation Kaufman Stadium / Kansas City Royals","Volume Service America: Center Plate","KS VSA CntrPlat","141.3 PL",,FMN,BM,Business
+461.550000,466.55000,WQAW544,"Hospitals Research / Centerpoint Medical Center (Independence)","Security [Expired 8/14]","CMS Security 1","118.8 PL",,FMN,RM,Security
+461.587500,466.58750,WQGT220,"Businesses Miscellaneous","Plaza: Security","Plaza Security",,,FMN,RM,Security
+461.625000,466.62500,WQFL724,"Businesses Miscellaneous","H and R Block: Warehouse Operations","HR Blk Warehouse",,,FMN,RM,Business
+461.650000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+461.650000,0.00000," ","KC Wireless (LTR)","Site 001 Kansas City LTR",,,,LTR,,TRS
+461.675000,0.00000," ","KC Wireless (LTR)","Site 001 Kansas City LTR",,,,LTR,,TRS
+461.700000,466.70000,KEH982,"Hospitals Research / Centerpoint Medical Center (Independence)","Security - Old? [Expired 9/22]","RMC Sec Old","156.7 PL",,FMN,RM,Security
+461.700000,466.70000,WSAS201,"Hospitals Research Medical Center West (BMC)","Security [Ch 1]","BMC Security 1","156.7 PL",,FMN,RM,Security
+461.712500,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+461.750000,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+461.762500,466.76250,WPWB214,"Hospitals St. Joseph Health Center (Kansas City)",Maintenance/Security/Admin,"SJHC Sec/Mt3",,,FMN,RM,Business
+461.800000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+461.800000,0.00000," ",Cerner,"Site 002 Innovation Campus (KC)",,,,DMR,,TRS
+461.825000,0.00000,WPZS270,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance/Security,"CMH Ops E",,,FMN,M,Business
+461.825000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+461.862500,0.00000,WQIF916,"Attractions and Recreation Kansas City Live",Operations,"KC Live Ops6",,,FMN,M,Business
+461.925000,466.92500,KB33450,"Attractions and Recreation Kaufman Stadium / Kansas City Royals","Royals Security","KS Security","223 DPL",,FMN,BM,Security
+461.950000,0.00000," ","University Health","Site 001 Truman Medical Center",,,,NXDN,,TRS
+462.012500,0.00000," ","Kauffman Center for the Performing Arts","Site 001 Primary",,,,DMR,,TRS
+462.025000,467.02500,WPKY826,"Businesses Downtown","Tower Properties Security [Ch 1]","Tower Prop Secur","233.6 PL",,FMN,RM,Security
+462.037500,0.00000," ","T-Mobile Center","Site 001 T-Mobile Center",,,,DMR,,TRS
+462.050000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+462.050000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+462.062500,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+462.125000,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+462.175000,467.17500,WQKK747,"Attractions and Recreation Hallmark Crown Center",Security,"HCC Security A","CC 14|TG 101|SL 1",,DMR,RM,Security
+462.200000,467.20000,WPJH869,"Hospitals Children's Mercy Hospital (Kansas City)","Internal Operations","CMH Internal","146.2 PL",,FMN,RM,Business
+462.200000,0.00000," ","Unilever Independence - Knorr","Site 001 Primary",,,,DMR,,TRS
+462.250000,467.25000,WPZS270,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance/Security,"CMH Ops A",,,FMN,RM,Business
+462.275000,467.27500,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations","AS 462.275",,,FMN,RM,Business
+462.400000,467.40000,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Maintenance/Secondary Ops","AS Mnt/Secnd","331 DPL",,FMN,RM,Business
+462.400000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+462.450000,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+462.500000,467.50000,WPMZ482,"Attractions and Recreation Kemper Arena","Operations [Expired 4/14]","KA AmRoyal 2","051 DPL",,FMN,RM,Business
+462.525000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+462.525000,0.00000," ","KC Wireless (Tier 3)","Site 007 Kansas City MO",,,,DMR,,TRS
+462.525000,0.00000," ","Unilever Independence - Knorr","Site 001 Primary",,,,DMR,,TRS
+462.562500,0.00000,,"Businesses Miscellaneous","Save-A-Lot [FRS 1]","Save-A-Lot A","67.0 PL",,FMN,M,Business
+462.587500,0.00000,,"Businesses Miscellaneous","Save-A-Lot [FRS 2]","Save-A-Lot B","118.8 PL",,FMN,M,Business
+462.612500,0.00000,,"Businesses Miscellaneous","Save-A-Lot [FRS 3]","Save-A-Lot C","127.3 PL",,FMN,M,Business
+462.850000,0.00000,WQDL586,"Hospitals Children's Mercy Hospital (Kansas City)",Paging,"CMH Paging",,,Telm,B,Data
+462.912500,0.00000,,"Businesses Miscellaneous","Target (all KC Metro stores; Ch 2)","Target KC Ch 2",,,FMN,M,Business
+463.275000,468.27500,WQWZ451,"Attractions and Recreation Hallmark Crown Center",Security,"HCC Security B","CC 14|TG 101|SL 1",,DMR,RM,Security
+463.312500,468.31250,WPWB214,"Hospitals St. Joseph Health Center (Kansas City)",Maintenance/Security/Admin,"SJHC Sec/Mt4",,,FMN,RM,Business
+463.312500,468.31250,WQIF916,"Attractions and Recreation Kansas City Live",Operations,"KC Live Ops1",,,DMR,RM,Business
+463.325000,468.32500,WNHL309,"Hospitals University Health Lakewood Medical Center",Security,"UHLMC Security","627 DPL",,FMN,RM,Security
+463.337500,0.00000," ",Cerner,"Site 002 Innovation Campus (KC)",,,,DMR,,TRS
+463.350000,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+463.412500,0.00000," ",Cerner,"Site 005 Lee's Summit Campus",,,,DMR,,TRS
+463.412500,0.00000," ","Kauffman Center for the Performing Arts","Site 001 Primary",,,,DMR,,TRS
+463.450000,468.45000,KB33450,"Attractions and Recreation Kaufman Stadium / Kansas City Royals",Security,"KS Security","226 DPL",,FMN,RM,Security
+463.462500,0.00000," ","T-Mobile Center","Site 001 T-Mobile Center",,,,DMR,,TRS
+463.487500,468.48750,WQBP882,"Businesses Downtown","Westport Community Improvement District: Security","Westport CID Sec","CC 11|TG 800000|SL 2",,DMR,RM,Security
+463.487500,468.48750,WQBP882,"Businesses Midtown/Plaza Businesses","Westport Security","Wstprt Security","125 DPL",,FMN,RM,Security
+463.500000,468.50000,WNYI549,"Hospitals University Health KC 2301 Holmes","Security (Hospital Hill)","UHKC Security","243 DPL",,FMN,RM,Security
+463.500000,0.00000," ","University Health","Site 001 Truman Medical Center",,,,NXDN,,TRS
+463.525000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+463.562500,468.56250,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations","AS 463.5625",,,FMN,RM,Business
+463.562500,0.00000," ","Kansas City Chiefs Football Club","Site 001 GEHA Stadium (Arrowhead)",,,,DMR,,TRS
+463.575000,0.00000,KB33450,"Attractions and Recreation Kaufman Stadium / Kansas City Royals",Operations,"KS 463.575",,,FMN,M,Business
+463.575000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+463.600000,468.60000,WPJH869,"Hospitals Children's Mercy Hospital (Kansas City)","Operations / TA","CMH Ops","146.2 PL",,FMN,RM,Business
+463.612500,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+463.637500,468.63750,WNYI549,"Hospitals University Health KC 2301 Holmes","ICC (Hospital Hill)","UHKC ICC","141.3 PL",,FMN,RM,"Emergency Ops"
+463.637500,0.00000," ","University Health","Site 001 Truman Medical Center",,,,NXDN,,TRS
+463.650000,0.00000,WNSU618,"Businesses Downtown","Whelan Security (Crowd Systems?)","Whelan Security","251 DPL",,FMN,M,Security
+463.675000,468.67500,WPDQ601,"Attractions and Recreation Hallmark Crown Center","Crown Center: Maintenance","CC Maintenance","141.3 PL",,FMN,RM,Business
+463.725000,468.72500,WPZS270,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance/Security,"CMH Ops B",,,FMN,RM,Business
+463.725000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+463.750000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+463.800000,0.00000," ","Ballys Kansas City","Site 001 Casino",,,,DMR,,TRS
+463.825000,468.82500,WNYI549,"Hospitals University Health KC 2301 Holmes","Guest Relations (Hospital Hill)","UHKC Guest","141.3 PL",,FMN,RM,Business
+463.825000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+463.825000,0.00000," ","University Health","Site 001 Truman Medical Center",,,,NXDN,,TRS
+463.837500,468.83750,WQUU865,"Hospitals Research / Centerpoint Medical Center (Independence)","Security [Ch. 1]","RMC Security","100.0 PL",,FMN,RM,Security
+463.875000,468.87500,WQGT220,"Attractions and Recreation Country Club Plaza (Kansas City)",Maintenance,"CCP Maintnc 102","CC 4|TG 102|SL *",,DMR,RM,Business
+463.925000,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+463.950000,468.95000,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations","AS 463.95",,,FMN,RM,Business
+463.950000,0.00000," ","GEHA Insurance","Site 002 Lee's Summit",,,,DMR,,TRS
+464.000000,0.00000," ","KC Wireless (LTR)","Site 010 Kansas City, MO",,,,LTR,,TRS
+464.000000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+464.000000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+464.000000,0.00000," ","KC Wireless (Tier 3)","Site 007 Kansas City MO",,,,DMR,,TRS
+464.025000,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+464.050000,469.05000,WPZT299,"Independence Public Schools","Truman High School: Bus / Base / Security","TrumanHigh B","186.2 PL",,FMN,RM,Schools
+464.075000,0.00000," ","Unilever Independence - Knorr","Site 001 Primary",,,,DMR,,TRS
+464.100000,469.10000,WNSL677,"Attractions and Recreation Hallmark Crown Center","Crown Center: Maintenance/Engineering","CC Engineers","506 DPL",,FMN,RM,Business
+464.100000,469.10000,WSAS201,"Hospitals Research / Centerpoint Medical Center (Independence)",Maintenance,"RMC Maintnce","156.7 PL",,FMN,RM,Business
+464.100000,469.10000,WSAS201,"Hospitals Research Medical Center West (BMC)","Maintenance [Ch 1]","BMC Maintnce","156.7 PL",,FMN,RM,Business
+464.100000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+464.100000,0.00000," ","KC Wireless (LTR)","Site 001 Kansas City LTR",,,,LTR,,TRS
+464.112500,469.11250,WQRV632,"Businesses Downtown","UMB Bank: Control Dispatch (Slot 1 TG100?)","UMB Bank Control","CC 12|TG 200|SL 2",,DMR,RM,Business
+464.187500,469.18750,WPZT299,"Independence Public Schools","Bus / Base / Security","Ind Sch G",,,FMN,RM,Schools
+464.200000,469.20000,WQPF659,"Businesses Downtown","City Center Square: Ops","CC Square Ops R",,,FMN,RM,Business
+464.200000,469.20000,WSA582,"Hospitals St. Lukes Hospital (Kansas City)",Maintenance,"SLH Maint 2","100.0 PL",,FMN,RM,Business
+464.225000,0.00000,WPIW775,"Businesses Downtown","Unigard Security","Unigard Security","241.8 PL",,FMN,M,Security
+464.250000,469.25000,WPRB414,"Hospitals St. Lukes Hospital (Kansas City)",Housekeeping,"SLH Hskpng","134 DPL",,FMN,RM,Business
+464.250000,469.25000,WRJ738,"Businesses Adams Mark Hotel","Security [Expired 7/13]","AdamsMark Ops 1",,,FMN,RM,Business
+464.325000,469.32500,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Maintenance/Guest Services","AS Mnt/GtSrv","114 DPL",,FMN,RM,Business
+464.325000,469.32500,WPSF412,"Businesses Downtown","Downtown District Security/Maint [Ch 1]","DDist Sec/Maint","624 DPL",,FMN,RM,Security
+464.362500,469.36250,WQXF475,"Lee's Summit R7 School District","Bus Ops","LS School Bus A","7 RAN",,NXDN96,RM,Schools
+464.400000,0.00000,,"Businesses Downtown","City Center Square Ops [No Lic]","CC Square Ops ","506 DPL",,FMN,M,Business
+464.400000,469.40000,WPTR714,"Rockhurst College (Kansas City)",Operations,"RC Ops 1",,,FMN,RM,Schools
+464.400000,0.00000,WPTR714,"Rockhurst College (Kansas City)",Operations,"RC Ops 7","244 DPL",,FMN,M,Schools
+464.400000,0.00000,WPZS270,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance/Security,"CMH Ops F",,,FMN,M,Business
+464.412500,469.41250,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations","AS 464.4125",,,DMR,RM,Business
+464.412500,0.00000," ","Kansas City Chiefs Football Club","Site 001 GEHA Stadium (Arrowhead)",,,,DMR,,TRS
+464.450000,0.00000,,"Businesses Downtown","State Street Bank Operations","StateStreet Bank","245 DPL",,FMN,M,Business
+464.450000,469.45000,WXG607,"Hospitals Research / Centerpoint Medical Center (Independence)","Security [Expired 4/13]","CMS Security 2","82.5 PL",,FMN,RM,Security
+464.450000,0.00000," ","MotoNet CP+ (DMR)","Site 004 Channel 50 (Kansas City)",,,,DMR,,TRS
+464.475000,469.47500,WSAS201,"Hospitals Research Medical Center West (BMC)","Security [Ch 3]","BMC Security 3","156.7 PL",,FMN,RM,Security
+464.475000,469.47500,WQTK957,"Hospitals Research Medical Center West (BMC)","Housekeeping [Ch 1]","BMC Housekpng",CSQ,,FMN,RM,Business
+464.475000,469.62500,WNZU736,"Businesses Newspapers","Kansas City Star: Security [Expired 6/22]","KCStar Security","156.7 PL",,FMN,RM,Security
+464.500000,469.50000,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations (Itinerant Statewide MO/MN)","KCC 464.5",,,FMN,RM,Business
+464.500000,0.00000,,"Businesses Miscellaneous","Hope Faith Ministries: Security / Ops - Secondary","Hope FM SecOps B","071 DPL",,FMN,M,Business
+464.550000,469.55000,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Football Team Operations (Itinerant Statewide MO/MN)","KCC 464.55",,,FMN,RM,Business
+464.550000,0.00000,WPZT299,"Independence Public Schools","Randell Elementary","Randell Elem","67.0 PL",,FMN,M,Schools
+464.550000,0.00000,,"Businesses Miscellaneous","Hope Faith Ministries: Security / Ops","Hope FM SecOps A","071 DPL",,FMN,M,Business
+464.550000,0.00000,,"Businesses Miscellaneous","Otis Elevator and Escalator (Ch 1)","Otis Elevator 1","67.0 PL",,FMN,M,Business
+464.575000,469.57500,WPHJ869,"Hospitals Children's Mercy Hospital (Kansas City)",Security,"CMH Security","131.8 PL",,FMN,RM,Security
+464.575000,0.00000," ","Children's Mercy Hospital","Site 001 Children's Mercy",,,,DMR,,TRS
+464.600000,469.60000,WPRB414,"Hospitals St. Lukes Hospital (Kansas City)",Security,"SLH Security","223 DPL",,FMN,RM,Security
+464.625000,469.62500,KEQ496,"Hospitals St. Joseph Health Center (Kansas City)","Security [Ch 1]","SJHC Securty","103.5 PL",,FMN,RM,Security
+464.625000,469.62500,WQAH621,"Businesses Miscellaneous","Caravan Ingredients","Caravan 401","CC 4|TG 401|SL *",,DMR,RM,Business
+464.650000,0.00000,WQJP702,"Hospitals St. Lukes Hospital East (Lees Summit)",Paging,"SLHE Paging2",,,Telm,BM,Data
+464.700000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+464.712500,0.00000," ","MotoNet CP+ (DMR)","Site 005 Kansas City",,,,DMR,,TRS
+464.725000,469.72500,KEQ496,"Hospitals St. Joseph Health Center (Kansas City)",Maintenance,"SJHC Sec/Mt2","731 DPL",,FMN,RM,Business
+464.762500,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+464.775000,469.77500,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Primary Ops/Security","AS Ops/Sec","103.5 PL",,FMN,RM,Security
+464.775000,469.77500,WPHJ869,"Hospitals Children's Mercy Hospital (Kansas City)","Engineering A","CMH EgnrngA","131.8 PL",,FMN,RM,Business
+464.775000,469.77500,WPJH869,"Hospitals Children's Mercy Hospital (Kansas City)","Engineering B","CMH EgnrngB","162.2 PL",,FMN,RM,Business
+464.800000,0.00000," ","KC Wireless (LTR)","Site 206 Kansas City, MO 3",,,,LTR,,TRS
+464.850000,469.85000,WNYI549,"Hospitals University Health KC 2301 Holmes","Maintenance (Hospital Hill)","UHKC Maintence","107.2 PL",,FMN,RM,Business
+464.850000,0.00000," ","University Health","Site 001 Truman Medical Center",,,,NXDN,,TRS
+464.862500,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+464.875000,469.87500,KB33450,"Attractions and Recreation Kaufman Stadium / Kansas City Royals",Maintenance,"KS Maintenac","243 DPL",,FMN,RM,Business
+464.875000,469.87500,WPHJ869,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance,"CMH Maint","162 DPL",,FMN,RM,Business
+464.875000,0.00000," ","Children's Mercy Hospital","Site 001 Children's Mercy",,,,DMR,,TRS
+464.900000,0.00000," ","KC Wireless (LTR)","Site 205 Kansas City, MO 2",,,,LTR,,TRS
+464.950000,469.95000,KUF234,"Attractions and Recreation Arrowhead Stadium / Kansas City Chiefs","Parking Ops","AS Parking","506 DPL",,FMN,RM,Business
+464.950000,469.95000,KEQ496,"Hospitals St. Joseph Health Center (Kansas City)","Security/Maintenance [Ch 2]","SJHC Sec/Mt1","103.5 PL",,FMN,RM,Business
+464.950000,0.00000," ","Kansas City Chiefs Football Club","Site 001 GEHA Stadium (Arrowhead)",,,,DMR,,TRS
+464.962500,469.96250,WNYI549,"Hospitals University Health Lakewood Medical Center",ICC,"UHLMC ICC","141.3 PL",,FMN,RM,"Emergency Ops"
+464.975000,0.00000,"WQTK957 ","Hospitals Research Medical Center West (BMC)","Operations / Security - Brookside Campus","RMC West","162.2 PL",,FMN,BM,Business
+464.975000,469.97500,WQTK957,"Hospitals Research Medical Center West (BMC)","Security [Ch 2]","BMC Security 2","162.2 PL",,FMN,RM,Security
+465.300000,0.00000,WQBY761,Government,"Sheriff: Tactical / Courthouse Security [Expired 1/15]","Jack Shrf Jail","100.0 PL",,FMN,M,Corrections
+465.362500,0.00000,WQPK766,"Lees Summit","Airport [Expired 6/22]","LS AirPort","411 DPL",,FMN,BM,"Public Works"
+465.537500,0.00000,WQAX848,"Central Jackson County Fire Protection District","Fire: Data Ops","CJCFPD Data",,,FMN,M,Data
+466.287500,0.00000,,"Businesses Miscellaneous","Target (all KC Metro stores; Ch 3)","Target KC Ch 3",,,FMN,M,Business
+466.687500,0.00000,WQQZ212,"Businesses Property Management","Hawthorne Place Apartments: Maintenance/Office",HwthrnPlaceApt,,,FMN,M,Business
+467.800000,0.00000,WPZS270,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance/Security,"CMH Ops G",,,FMN,M,Business
+467.825000,0.00000,KB33450,"Attractions and Recreation Kaufman Stadium / Kansas City Royals",Operations,"KS 467.825","244 DPL",,FMN,M,Business
+467.825000,0.00000,WNYI549,"Hospitals University Health KC 2301 Holmes","Disaster 1","UHKC Disaster 1","223 DPL",,FMN,M,"Emergency Ops"
+467.900000,0.00000,WPZS270,"Hospitals Children's Mercy Hospital (Kansas City)",Maintenance/Security,"CMH Ops H",,,FMN,M,Business
+467.900000,0.00000,WNZU736,"Businesses Newspapers","Kansas City Star: Security - Dispatch [Expired 6/22]","KCStar SecurityD","CC 4|TG 2|SL 2",,DMR,M,Security
+467.925000,0.00000,WNYI549,"Hospitals University Health KC 2301 Holmes","Disaster 2","UHKC Disaster 2","516 DPL",,FMN,M,"Emergency Ops"
+469.487500,0.00000,,"Businesses Miscellaneous","Target (all KC Metro stores; Ch 4)","Target KC Ch 4",,,FMN,M,Business
+769.168750,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 086 Lee's Summit 700",,,,"Project 25",,TRS
+769.418750,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 086 Lee's Summit 700",,,,"Project 25",,TRS
+769.668750,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 086 Lee's Summit 700",,,,"Project 25",,TRS
+769.918750,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 086 Lee's Summit 700",,,,"Project 25",,TRS
+770.168750,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 086 Lee's Summit 700",,,,"Project 25",,TRS
+770.418750,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 086 Lee's Summit 700",,,,"Project 25",,TRS
+771.381250,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 006 MO Oak Grove",,,,"Project 25",,TRS
+771.681250,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 006 MO Oak Grove",,,,"Project 25",,TRS
+771.931250,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 006 MO Oak Grove",,,,"Project 25",,TRS
+772.206250,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 006 MO Oak Grove",,,,"Project 25",,TRS
+772.681250,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 005 MO Lone Jack",,,,"Project 25",,TRS
+772.931250,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 005 MO Lone Jack",,,,"Project 25",,TRS
+773.406250,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 005 MO Lone Jack",,,,"Project 25",,TRS
+773.906250,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 005 MO Lone Jack",,,,"Project 25",,TRS
+775.931250,0.00000,,Independence,"City-Wide 5","Ind City Wide 5","293 NAC",,P25,M,Interop
+775.943750,0.00000,,Independence,"City-Wide 6","Ind City Wide 6","293 NAC",,P25,M,Interop
+851.050000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+851.325000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+851.487500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+851.600000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+851.825000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+851.862500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.050000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.075000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.175000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.225000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.412500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.437500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.587500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.662500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.737500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.875000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.962500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+852.987500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+853.150000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+853.237500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+853.487500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+853.737500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+854.137500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+854.587500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+854.712500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+855.362500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 007 MO Lee's Summit",,,,"Project 25",,TRS
+855.662500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+855.837500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 007 MO Lee's Summit",,,,"Project 25",,TRS
+855.887500,0.00000," ","John Knox Village","Site 001 Primary",,,,NXDN,,TRS
+856.162500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 001 MO Kansas City",,,,"Project 25",,TRS
+856.212500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+856.462500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+856.737500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+857.212500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+857.462500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+857.737500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+857.887500,0.00000," ","John Knox Village","Site 001 Primary",,,,NXDN,,TRS
+858.037500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 007 MO Lee's Summit",,,,"Project 25",,TRS
+858.212500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+858.462500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+858.587500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 007 MO Lee's Summit",,,,"Project 25",,TRS
+858.737500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 MO Independence",,,,"Project 25",,TRS
+859.487500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 007 MO Lee's Summit",,,,"Project 25",,TRS
+859.862500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 007 MO Lee's Summit",,,,"Project 25",,TRS
+859.887500,0.00000," ","John Knox Village","Site 001 Primary",,,,NXDN,,TRS
+860.787500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 007 MO Lee's Summit",,,,"Project 25",,TRS
+860.887500,0.00000," ","John Knox Village","Site 001 Primary",,,,NXDN,,TRS
+935.175000,0.00000," ","Evergy (DMR T3)","Site 086 Swope Park (Kansas City)",,,,DMR,,TRS
+935.325000,0.00000," ","Evergy (DMR T3)","Site 086 Swope Park (Kansas City)",,,,DMR,,TRS
+935.350000,0.00000," ","Evergy (DMR T3)","Site 061 Kansas City MO Downtown",,,,DMR,,TRS
+935.450000,0.00000,WPIT599,"Kansas City Power and Light","Talk-Around Ops","KCPL T/A 1",,,FMN,M,Utilities
+935.450000,0.00000," ","Evergy (DMR T3)","Site 046 Blue Springs (*)",,,,DMR,,TRS
+935.475000,0.00000," ","Evergy (DMR T3)","Site 086 Swope Park (Kansas City)",,,,DMR,,TRS
+935.500000,0.00000," ","Evergy (DMR T3)","Site 061 Kansas City MO Downtown",,,,DMR,,TRS
+935.537500,0.00000," ","Evergy (DMR T3)","Site 059 Greenwood (*)",,,,DMR,,TRS
+935.600000,0.00000," ","Evergy (DMR T3)","Site 046 Blue Springs (*)",,,,DMR,,TRS
+935.625000,0.00000," ","Evergy (DMR T3)","Site 086 Swope Park (Kansas City)",,,,DMR,,TRS
+935.662500,0.00000," ","Evergy (DMR T3)","Site 061 Kansas City MO Downtown",,,,DMR,,TRS
+935.737500,0.00000," ","Evergy (DMR T3)","Site 059 Greenwood (*)",,,,DMR,,TRS
+935.762500,0.00000," ","Evergy (DMR T3)","Site 046 Blue Springs (*)",,,,DMR,,TRS
+935.787500,0.00000," ","Evergy (DMR T3)","Site 086 Swope Park (Kansas City)",,,,DMR,,TRS
+935.812500,0.00000," ","Evergy (DMR T3)","Site 061 Kansas City MO Downtown",,,,DMR,,TRS
+935.950000,0.00000," ","Evergy (DMR T3)","Site 086 Swope Park (Kansas City)",,,,DMR,,TRS
+935.975000,0.00000," ","Evergy (DMR T3)","Site 059 Greenwood (*)",,,,DMR,,TRS
+936.450000,0.00000,WPIT599,"Kansas City Power and Light","Talk-Around Ops","KCPL T/A 2",,,FMN,M,Utilities
+938.000000,0.00000,WPIT626,"Kansas City Power and Light","Talk-Around Ops","KCPL T/A 4",,,FMN,M,Utilities
+939.612500,0.00000," ","Evergy (DMR T3)","Site 081 Sibley (*)",,,,DMR,,TRS
+939.762500,0.00000," ","Evergy (DMR T3)","Site 081 Sibley (*)",,,,DMR,,TRS

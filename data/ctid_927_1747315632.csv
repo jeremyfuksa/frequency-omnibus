@@ -1,0 +1,32 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+151.167500,153.85250,WQFC320,Oskaloosa,"Fire Dispatch","Oskaloosa Fire","79.7 PL",,FMN,RM,"Fire Dispatch"
+151.205000,0.00000,WQDA251,"Jefferson County","Fire District 3 - Williamstown",JeffersnCoFDTac3,"100.0 PL",,FMN,BM,Fire-Tac
+153.950000,0.00000,KA87133,"Jefferson County","Fire District  1 - Kaw Township",JeffersnCoFDTac1,CSQ,,FMN,M,Fire-Tac
+154.085000,158.92500,WPGV990,"Jefferson County","Fire District 9 - McLouth",JeffersnCoFDTac9,"100.0 PL",,FMN,RM,Fire-Tac
+154.145000,0.00000,KNNT802,"Jefferson County","Fire District 8 - Oskaloosa",JeffersnCoFDTac8,"100.0 PL",,FMN,BM,Fire-Tac
+154.175000,0.00000,WPGF978,"Jefferson County","Fire District  11 - Valley Falls",JeffrsnCoFDTac11,"100.0 PL",,FMN,BM,Fire-Tac
+154.220000,0.00000,WQHB600,"Jefferson County","Fire District 12 - Norton Township",JeffrsnCoFDTac12,"100.0 PL",,FMN,BM,Fire-Tac
+154.235000,0.00000,WQBC946,"Jefferson County","Fire District 7 - Ozwakie",JeffersnCoFDTac7,"100.0 PL",,FMN,BM,Fire-Tac
+154.325000,153.89000,WQG931,"Jefferson County","Fire District 5",JeffersnCoFDTac5,"100.0 PL",,FMN,RM,Fire-Tac
+154.370000,159.00000,WPYH297,"Jefferson County","Fire District 6 - Fairview",JeffersnCoFDTac6,"100.0 PL",,FMN,RM,Fire-Tac
+154.445000,154.01000,WPGF978,"Jefferson County","Fire District 11 - Valley Falls","Valley Falls FD","100.0 PL",,FMN,RM,Fire-Tac
+154.657500,159.33750,WQFD498,"Jefferson County","Public Safety Command Post",JeffCoComndPost,,,FMN,RM,Multi-Tac
+154.732500,0.00000,WNPM588,"Jefferson County","Fire District 10 - Winchester",JeffrsnCoFDTac10,"110.9 PL",,FMN,RM,Fire-Tac
+154.845000,156.03000,WNQN694,"Jefferson County","Sheriff (Dispatch before KSICS)","Jefferson Co SO","100.0 PL",,FMN,RM,"Law Dispatch"
+154.875000,0.00000,WNQN694,"Jefferson County","Sheriff 3 (Tactical before KSICS)","Jefferson Co SO3","114.8 PL",,FMN,BM,"Law Tac"
+155.685000,0.00000,WPME270,"Jefferson County","Emergency Management","Jefferson Co EM","100.0 PL",,FMN,BM,"Emergency Ops"
+155.745000,0.00000,WNPM588,"Jefferson County","Fire District  10 - Winchester",JeffrsnCoFDTac10,"100.0 PL",,FMN,BM,Fire-Tac
+156.202500,0.00000,WQGA285,"Jefferson County","Fire District 4",JeffersnCoFDTac4,"100.0 PL",,FMN,BM,Fire-Tac
+158.820000,153.98000,WNDY292,"Jefferson County","Fire and EMS Dispatch","Jefferson Co FD","100.0 PL",,FMN,RM,"Fire Dispatch"
+158.857500,153.80750,WQFD498,"Jefferson County","Public Safety","JeffCo PubSafety",,,FMN,RM,Multi-Talk
+453.550000,458.55000,KNDG265,"Jefferson County","Highway Maintenance",JeffersonCoRoads,"100.0 PL",,FMN,RM,"Public Works"
+461.437500,0.00000," ","MotoNet CP+ (DMR)","Site 037 McLouth",,,,DMR,,TRS
+462.012500,0.00000," ","MotoNet CP+ (DMR)","Site 037 McLouth",,,,DMR,,TRS
+463.387500,0.00000," ","MotoNet CP+ (DMR)","Site 037 McLouth",,,,DMR,,TRS
+464.637500,0.00000," ","MotoNet CP+ (DMR)","Site 037 McLouth",,,,DMR,,TRS
+851.150000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 055 Ozawkie",,,,"Project 25",,TRS
+851.462500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 055 Ozawkie",,,,"Project 25",,TRS
+851.687500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 055 Ozawkie",,,,"Project 25",,TRS
+853.262500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 055 Ozawkie",,,,"Project 25",,TRS
+853.512500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 055 Ozawkie",,,,"Project 25",,TRS
+853.912500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 055 Ozawkie",,,,"Project 25",,TRS

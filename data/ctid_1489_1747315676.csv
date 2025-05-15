@@ -1,0 +1,106 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+120.350000,0.00000,,"Rosecrans Memorial Airport (St Joseph)",Approach,"RMA Approach",CSQ,,AM,BM,Aircraft
+121.900000,0.00000,,"Rosecrans Memorial Airport (St Joseph)",Ground,"RMA Ground",CSQ,,AM,BM,Aircraft
+125.050000,0.00000,,"Rosecrans Memorial Airport (St Joseph)",ATIS,"RMA ATIS",CSQ,,AM,BM,Aircraft
+126.900000,0.00000,,"Rosecrans Memorial Airport (St Joseph)",Tower,"RMA Tower",CSQ,,AM,BM,Aircraft
+133.350000,0.00000,,"Rosecrans Memorial Airport (St Joseph)",PAR,"RMA PAR",CSQ,,AM,BM,Aircraft
+146.850000,146.25000,,Miscellaneous,"Metro Area - Main","146.85 100.0","100.0 PL",,FM,RM,Ham
+151.250000,158.98500,WPJR467,"Fire Departments","Fire: County Dispatch",BuchananFire,,,FMN,RM,"Fire Dispatch"
+151.250000,154.16000,WPJR467,"Fire Departments","St. Joseph Fire","StJoseph Fire",,,FMN,RM,"Fire Dispatch"
+151.895000,0.00000,WQAY351,Schools,"Mid-Buchanan R5 School District (Faucett)","MBR5 School",,,FMN,BM,Schools
+152.007500,0.00000,KLP882,"Mosiac Life Care (St Joseph) / Buchanan County EMS","Medical Paging","HRMC Paging1",,,Telm,B,Data
+154.160000,0.00000,WPJR467,"Fire Departments",Fireground,"Buchanan FG",,,FMN,M,Fire-Tac
+154.672500,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 029 Dearborn",,,,"Project 25",,TRS
+154.755000,155.91000,KAB461,"Buchanan County","Sheriff: Dispatch [Ch 1]","Buch Sheriff","315 DPL",,FMN,RM,"Law Dispatch"
+155.220000,0.00000,WPMB408,"Mosiac Life Care (St Joseph) / Buchanan County EMS",EMS,"BuchCo EMS 4",,,FMN,BM,EMS-Tac
+155.340000,0.00000,KLP882,"Mosiac Life Care (St Joseph) / Buchanan County EMS","Patient Reports",HEAR340,,,FMN,B,Hospital
+155.452500,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 029 Dearborn",,,,"Project 25",,TRS
+155.790000,0.00000,KAB461,"Buchanan County","Sheriff: Jail Ops","Buch Shrf Jail ",,,FMN,M,Corrections
+155.985000,0.00000,KAB461,"Buchanan County","Sheriff: Car-to-Car (Main)","Buch Shrf C2C ",,,FMN,M,"Law Tac"
+158.820000,0.00000,KAM919,"Buchanan County","Highway Department [Terminated]","Buch Highway",,,FMN,BM,"Public Works"
+158.820000,0.00000,KAM919,"Fire Departments","Fire: Tactical [Terminated]","Buch FireTac",,,FMN,BM,Fire-Tac
+169.675000,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 029 Dearborn",,,,"Project 25",,TRS
+170.912500,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 029 Dearborn",,,,"Project 25",,TRS
+171.675000,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 029 Dearborn",,,,"Project 25",,TRS
+239.000000,0.00000,,"Rosecrans Memorial Airport (St Joseph)","Tower (Military)","RMA Mil Towr",CSQ,,AM,BM,Aircraft
+360.800000,0.00000,,"Rosecrans Memorial Airport (St Joseph)","Approach (Military)","RMA Mil Appr",CSQ,,AM,BM,Aircraft
+444.925000,0.00000," ","Missouri BrandMeister DMR","Site 129 St Joseph",,,,DMR,,TRS
+451.400000,456.50000,WQCU987,"Businesses, Attractions and Recreation Triumph Foods (St. Joseph)",Operations,"TriFoods Op1","123.0 PL",,FMN,RM,Business
+451.425000,456.42500,WQPL955,"Businesses, Attractions and Recreation Tyson/Sara Lee Foods (St. Joseph)","Manufacturing Ops","SaraLee SJ 1",,,FMN,RM,Business
+451.425000,456.42500,WQPL955,"Businesses, Attractions and Recreation Tyson/Sara Lee Foods (St. Joseph)","Manufacturing Ops","SaraLee SJ 2",,,FMN,RM,Business
+451.450000,456.45000,WQCU987,"Businesses, Attractions and Recreation Triumph Foods (St. Joseph)",Operations,"TriFoods Op2","123.0 PL",,FMN,RM,Business
+451.700000,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+451.750000,456.75000,WQPL955,"Businesses, Attractions and Recreation Tyson/Sara Lee Foods (St. Joseph)","Manufacturing Ops","SaraLee SJ 3",,,FMN,RM,Business
+451.887500,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+451.925000,0.00000,WPSA217,"Buchanan County R4 School District (DeKalb)",Operations,"BCR4SD Ops1",,,FMN,M,Schools
+451.975000,0.00000,WPSA217,"Buchanan County R4 School District (DeKalb)",Operations,"BCR4SD Ops2",,,FMN,M,Schools
+452.000000,0.00000,WPSA217,"Buchanan County R4 School District (DeKalb)",Operations,"BCR4SD Ops3",,,FMN,M,Schools
+452.075000,457.07500,WQCU987,"Businesses, Attractions and Recreation Triumph Foods (St. Joseph)","Operations - Ch. 3","TriFoods Op3","123.0 PL",,FMN,RM,Business
+452.100000,0.00000,WPSA217,"Buchanan County R4 School District (DeKalb)",Operations,"BCR4SD Ops4",,,FMN,M,Schools
+452.125000,457.12500,WQCU987,"Businesses, Attractions and Recreation Triumph Foods (St. Joseph)",Operations,"TriFoods Op4",,,FMN,RM,Business
+452.150000,0.00000,WPSA217,"Buchanan County R4 School District (DeKalb)",Operations,"BCR4SD Ops5",,,FMN,M,Schools
+452.237500,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+452.437500,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+452.662500,457.66250,KNNL233,"Businesses, Attractions and Recreation East Mills Mall - St Joseph",Operations,"E Mills Mall OpA","CC 1|TG 100|SL 1",,DMR,RM,Business
+452.725000,0.00000,WPSA217,"Buchanan County R4 School District (DeKalb)",Operations,"BCR4SD Ops6",,,FMN,M,Schools
+452.750000,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+453.225000,458.22500,WNRB877,"Missouri Western State University (MWSU)","Police/Security [Ch 1]","MWSU Police1",,,FMN,RM,Security
+453.600000,0.00000,WNRB877,"Missouri Western State University (MWSU)","Engineering Tech","MWSU Engnrng",,,FMN,BM,Schools
+453.650000,468.65000,WPLX427,"Saint Joseph","Public Works - Automated Voice (Water/Sewer)","StJo PubWrks","186.2 PL",,FMN,RM,"Public Works"
+453.825000,458.82500,WNRB877,"Missouri Western State University (MWSU)","Maintenance [Ch 2]","MWSU Maint2","155 DPL",,FMN,RM,Schools
+454.625000,0.00000," ","MotoNet CP+ (DMR)","Site 044 St. Joseph West",,,,DMR,,TRS
+458.287500,0.00000,WPBB584,"Buchanan County","Emergency Management: Portables","Buchanan EMA",,,FMN,M,"Emergency Ops"
+460.050000,0.00000,KAH380,"Saint Joseph","Fireground [Ch 3]","StJo Firegrnd 3",,,FMN,BM,Fire-Tac
+460.150000,465.15000,KBF450,"Saint Joseph","Police: Dispatch/Operations [Ch 1]","StJo PD Dsp1","179.9 PL",,FMN,RM,"Law Dispatch"
+460.275000,465.27500,WPPB392,"Saint Joseph","Civic Arena (Portables 100 N. 4th)","StJo Civic Arena",,,FMN,M,"Public Works"
+460.600000,465.60000,KAH380,"Saint Joseph","Data tones",Data,"114.8 PL",,FMN,RM,Utilities
+460.625000,465.62500,KAH380,"Saint Joseph","Fire: Secondary [Ch 2] [Deleted 2007]","StJo Fire Scn2",,,FMN,RM,Fire-Tac
+461.275000,0.00000,WPOE265,"Missouri Western State University (MWSU)","Ad Spec (Instructional media center)","MWSU AdSpec1",,,FMN,M,Schools
+461.550000,466.55000,WNJS663,"Mosiac Life Care (St Joseph) / Buchanan County EMS","Operations [Cancelled 12/12]","HRMC Ops 1",,,FMN,RM,Business
+461.687500,0.00000," ","MotoNet CP+ (DMR)","Site 027 Atchison (Rushville)",,,,DMR,,TRS
+461.825000,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+461.887500,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+461.912500,0.00000," ","MotoNet CP+ (DMR)","Site 044 St. Joseph West",,,,DMR,,TRS
+461.950000,466.95000,WZA233,"First Student","Buses (St Joseph, Savannah)","FS Bus StJos",,,FMN,RM,Schools
+461.975000,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+462.112500,0.00000," ","MotoNet CP+ (DMR)","Site 027 Atchison (Rushville)",,,,DMR,,TRS
+462.150000,467.15000,WQPL955,"Businesses, Attractions and Recreation Tyson/Sara Lee Foods (St. Joseph)","Manufacturing Ops","SaraLee SJ 4",,,FMN,RM,Business
+462.162500,0.00000," ","MotoNet CP+ (DMR)","Site 027 Atchison (Rushville)",,,,DMR,,TRS
+462.800000,466.80000,WNJS663,"Mosiac Life Care (St Joseph) / Buchanan County EMS",Paging,"HRMC Paging2",,,Telm,RM,Data
+462.975000,467.95000,WPMB408,"Mosiac Life Care (St Joseph) / Buchanan County EMS","EMS: Dispatch","BuchCo EMS 1",,,FMN,RM,"EMS Dispatch"
+463.125000,468.12500,WPMB408,"Mosiac Life Care (St Joseph) / Buchanan County EMS",EMS,"BuchCo EMS 2",,,FMN,RM,"EMS Dispatch"
+463.237500,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+463.300000,0.00000," ","MotoNet CP+ (DMR)","Site 044 St. Joseph West",,,,DMR,,TRS
+463.312500,0.00000," ","MotoNet CP+ (DMR)","Site 001 St. Joseph East",,,,DMR,,TRS
+463.437500,0.00000," ","MotoNet CP+ (DMR)","Site 027 Atchison (Rushville)",,,,DMR,,TRS
+463.662500,0.00000," ","MotoNet CP+ (DMR)","Site 027 Atchison (Rushville)",,,,DMR,,TRS
+463.962500,0.00000," ","MotoNet CP+ (DMR)","Site 044 St. Joseph West",,,,DMR,,TRS
+463.987500,0.00000," ","MotoNet CP+ (DMR)","Site 044 St. Joseph West",,,,DMR,,TRS
+464.325000,0.00000,WPOE265,"Missouri Western State University (MWSU)","Ad Spec (Instructional media center)","MWSU AdSpec2",,,FMN,M,Schools
+464.437500,0.00000," ","MotoNet CP+ (DMR)","Site 027 Atchison (Rushville)",,,,DMR,,TRS
+464.587500,0.00000," ","MotoNet CP+ (DMR)","Site 044 St. Joseph West",,,,DMR,,TRS
+464.725000,469.72500,WPBX588,"Mosiac Life Care (St Joseph) / Buchanan County EMS","Operations [Cancelled 12/12]","HRMC Ops 2",,,FMN,RM,Business
+464.762500,0.00000," ","MotoNet CP+ (DMR)","Site 044 St. Joseph West",,,,DMR,,TRS
+464.825000,0.00000,WPOE265,"Missouri Western State University (MWSU)","Ad Spec (Instructional media center)","MWSU AdSpec3",,,FMN,M,Schools
+467.850000,0.00000,WPKN874,Schools,"St Joseph School District - Neely","StJoSC Neely",,,FMN,M,Schools
+773.031250,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 054 St Joseph 700",,,,"Project 25",,TRS
+773.281250,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 054 St Joseph 700",,,,"Project 25",,TRS
+773.531250,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 054 St Joseph 700",,,,"Project 25",,TRS
+773.781250,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 054 St Joseph 700",,,,"Project 25",,TRS
+774.031250,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 054 St Joseph 700",,,,"Project 25",,TRS
+774.281250,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 054 St Joseph 700",,,,"Project 25",,TRS
+851.087500,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+851.550000,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+851.950000,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+852.350000,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+852.537500,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+852.750000,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+852.950000,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+853.387500,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+853.575000,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+853.825000,0.00000," ","Buchanan County MO Public Safety","Site 001 Simulcast",,,,"Project 25",,TRS
+854.762500,0.00000," ","Miller Communications","Site 001 St. Joseph",,,,Motorola,,TRS
+855.262500,0.00000," ","Miller Communications","Site 001 St. Joseph",,,,Motorola,,TRS
+858.912500,0.00000," ","Miller Communications","Site 001 St. Joseph",,,,Motorola,,TRS
+859.887500,0.00000," ","Miller Communications","Site 001 St. Joseph",,,,Motorola,,TRS
+860.887500,0.00000," ","Miller Communications","Site 001 St. Joseph",,,,Motorola,,TRS

@@ -1,0 +1,10 @@
+Decimal,Hex,Alpha Tag,Mode,Description,Tag,Category
+101,065,"Security","T","Casino Security","Security","ALL Talkgroups"
+103,067,"Ops 103","T","Casino Operations 103","Business","ALL Talkgroups"
+104,068,"Slot Ops","T","Slot Machine Operations","Business","ALL Talkgroups"
+105,069,"Ops 105","T","Casino Operations 105","Business","ALL Talkgroups"
+107,06b,"Food & Bev","T","Food and Beverage Operations","Business","ALL Talkgroups"
+109,06d,"Ops 109","T","Casino Operations 109","Business","ALL Talkgroups"
+110,06e,"Hotel Ops","T","Hotel Operations","Business","ALL Talkgroups"
+112,070,"Housekeeping","T","Hotel Housekeeping","Business","ALL Talkgroups"
+113,071,"Engineer","T","Engineering","Business","ALL Talkgroups"

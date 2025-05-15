@@ -1,0 +1,7 @@
+Decimal,Hex,Alpha Tag,Mode,Description,Tag,Category
+1,001,"Security","T","Security","Security","All"
+2,002,"Slot Operations","T","Slot Operations","Business","All"
+9,009,"Maintenance","T","Maintenance","Business","All"
+10,00a,"Custodial","T","Custodial","Business","All"
+17,011,"Housekeeping","T","Housekeeping","Business","All"
+21,015,"Hotel Operations","T","Hotel Operations","Business","All"

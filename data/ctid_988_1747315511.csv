@@ -1,0 +1,93 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+145.130000,144.53000,WA0NQA,Repeaters,"Kansas City 145.130MHz Repeater","WA0NQA 145.130","151.4 PL",,FM,RM,Ham
+147.150000,147.75000,,Repeaters,"Jayhawk Amateur Radio Society","JARS 147.15",,,FM,RM,Ham
+147.210000,147.81000,W0KCK,Repeaters,"Wyandotte County RACES",W0KCK,"151.4 PL","151.4 PL",FM,RM,Ham
+153.770000,0.00000,KBZ937,"Bonner Springs","Fire and EMS Dispatch","BonnerSprings FD","131.8 PL",,FMN,RM,"Fire Dispatch"
+154.175000,0.00000,KBZ937,"Bonner Springs","Fire and EMS TAC",BonnerSprgsFDTac,,,FMN,BM,Fire-Tac
+155.055000,153.87500,KYQ438,"Bonner Springs","Public Works","BonnerSprings PW",,,FMN,RM,"Public Works"
+155.295000,0.00000,WPQZ501,"Kansas City","Public School Buses","KCK School Buses",,,FMN,BM,Schools
+155.895000,153.96500,WRNV788,"Wyandotte County","County Weather Warning System","WyCo WeatherWarn",,,FMN,RM,"Emergency Ops"
+451.275000,456.27500,,"Kansas Speedway Kansas Speedway","NASCAR 6 (Ch 6)","NASCAR Ch 6 ","606 DPL",,FMN,RM,Business
+451.412500,0.00000," ","Hollywood Casino at Kansas Speedway","Site 001 Casino",,,,NXDN,,TRS
+451.425000,456.42500,,"Kansas Speedway Kansas Speedway","NASCAR 7 (Ch 7)","NASCAR Ch 7","071 DPL",,FMN,RM,Business
+451.450000,456.45000,,"Kansas Speedway Kansas Speedway","NASCAR 8 (Ch 8)","NASCAR Ch 8","445 DPL",,FMN,RM,Business
+451.500000,456.50000,WPRI596,"Kansas Speedway Kansas Speedway","Security Dispatch",RaceSecurity,"662 DPL",,FMN,RM,Business
+451.687500,456.68750,,"Kansas Speedway Kansas Speedway","IRL (Ch 9)","Race IRL","107.2 PL",,FMN,RM,Business
+451.712500,0.00000," ","Hollywood Casino at Kansas Speedway","Site 001 Casino",,,,NXDN,,TRS
+451.925000,456.92500,,"Kansas Speedway Kansas Speedway","Command (Ch 1)","Race Command","047 DPL",,FMN,RM,Business
+452.075000,457.07500,,"Kansas Speedway Kansas Speedway","Security (Ch 2)",RaceSecurity,"023 DPL",,FMN,RM,Business
+452.125000,0.00000," ","Procter and Gamble (Kansas City KS)","Site 001 Confirmed LCN",,,,DMR,,TRS
+452.150000,457.15000,,"Kansas Speedway Kansas Speedway","Tac 2 (Ch 5)","Race Tac 2","226 DPL",,FMN,RM,Business
+452.225000,456.22500,,"Kansas Speedway Kansas Speedway","NASCAR 15 (Ch 15)","NASCAR Ch 15","346 DPL",,FMN,RM,Business
+452.250000,457.25000,,"Kansas Speedway Kansas Speedway","Pit Road (Ch 16)","Race Pits","331 DPL",,FMN,RM,Business
+452.300000,457.30000,WPRI596,"Kansas Speedway Kansas Speedway","Fire / Rescue (Ch 14)",RaceFire/EMS,"606 DPL",,FMN,RM,Business
+452.400000,457.40000,,"Kansas Speedway Kansas Speedway","ES Dispatch (Ch 3)","Race ES Disp","662 DPL",,FMN,RM,Business
+452.512500,0.00000," ","Hollywood Casino at Kansas Speedway","Site 001 Casino",,,,NXDN,,TRS
+452.675000,0.00000," ","Procter and Gamble (Kansas City KS)","Site 001 Confirmed LCN",,,,DMR,,TRS
+452.887500,0.00000," ","Hollywood Casino at Kansas Speedway","Site 001 Casino",,,,NXDN,,TRS
+453.312500,458.31250,,"Kansas Speedway Kansas Speedway","IRL (Ch 10)","Race IRL","203.5 PL",,FMN,RM,Business
+461.200000,466.20000,,"Kansas Speedway Kansas Speedway","NASCAR 11 (Ch 11)","NASCAR Ch 11","432 DPL",,FMN,RM,Business
+461.912500,0.00000," ","University of Kansas Health System","Site 002 KU Medical Center",,,,NXDN,,TRS
+462.187500,0.00000," ","Hollywood Casino at Kansas Speedway","Site 001 Casino",,,,NXDN,,TRS
+462.462500,0.00000," ","Hollywood Casino at Kansas Speedway","Site 001 Casino",,,,NXDN,,TRS
+463.337500,0.00000," ","University of Kansas Health System","Site 002 KU Medical Center",,,,NXDN,,TRS
+463.625000,468.62500,,"Kansas Speedway Kansas Speedway","NASCAR 13 (Ch 13)","NASCAR Ch 13","565 DPL",,FMN,RM,Business
+463.712500,0.00000," ","University of Kansas Health System","Site 002 KU Medical Center",,,,NXDN,,TRS
+464.062500,0.00000," ","Great Wolf Lodge","Site 001 Confirmed LCN",,,,DMR,,TRS
+464.200000,0.00000," ","Procter and Gamble (Kansas City KS)","Site 001 Confirmed LCN",,,,DMR,,TRS
+464.237500,0.00000," ","University of Kansas Health System","Site 002 KU Medical Center",,,,NXDN,,TRS
+464.287500,0.00000," ","Great Wolf Lodge","Site 001 Confirmed LCN",,,,DMR,,TRS
+464.600000,469.60000,,"Kansas Speedway Kansas Speedway","NASCAR 12 (Ch 12)","NASCAR Ch 12","631 DPL",,FMN,RM,Business
+464.662500,0.00000," ","University of Kansas Health System","Site 002 KU Medical Center",,,,NXDN,,TRS
+464.687500,0.00000," ",Cerner,"Site 003 Kansas City KS Campus",,,,DMR,,TRS
+464.775000,469.77500,,"Kansas Speedway Kansas Speedway","Maintenance (Ch 4)","Race Maintnc","423 DPL",,FMN,RM,Business
+851.075000,0.00000," ","KU Medical Center (Kansas City)","Site 001 Hospital",,,,"Project 25",,TRS
+851.375000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 043 Mission",,,,"Project 25",,TRS
+851.412500,0.00000," ","KU Medical Center (Kansas City)","Site 001 Hospital",,,,"Project 25",,TRS
+851.625000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 043 Mission",,,,"Project 25",,TRS
+851.737500,0.00000," ","KU Medical Center (Kansas City)","Site 001 Hospital",,,,"Project 25",,TRS
+852.200000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 043 Mission",,,,"Project 25",,TRS
+852.250000,0.00000," ","KU Medical Center (Kansas City)","Site 001 Hospital",,,,"Project 25",,TRS
+852.550000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 043 Mission",,,,"Project 25",,TRS
+853.250000,0.00000," ","KU Medical Center (Kansas City)","Site 001 Hospital",,,,"Project 25",,TRS
+853.300000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 043 Mission",,,,"Project 25",,TRS
+853.500000,0.00000," ","KU Medical Center (Kansas City)","Site 001 Hospital",,,,"Project 25",,TRS
+853.675000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 043 Mission",,,,"Project 25",,TRS
+853.800000,0.00000," ","KU Medical Center (Kansas City)","Site 001 Hospital",,,,"Project 25",,TRS
+854.087500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+854.112500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+854.287500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+854.337500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+854.462500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+854.962500,809.96250,WPVZ308,"Kansas City","Fire - Tac South","KCFire Tac South","025 DPL",,FM,RM,Fire-Tac
+854.987500,809.98750,WNAJ405,"Kansas City","Police - Standby","KCPD Standby","023 DPL",,FM,RM,"Law Tac"
+855.212500,810.21250,WNAJ405,"Kansas City","Fire - Tac East","KC Fire Tac East","025 DPL",,FM,RM,Fire-Tac
+855.237500,810.23750,WPVZ308,"Kansas City","Fire - Tac West","KC Fire Tac West","025 DPL",,FM,RM,Fire-Tac
+855.987500,810.98750,WPCE391,"Bonner Springs","Bonner Springs / Edwardsville  Police Dispatch","BonnerSprings PD","023 DPL",,FM,RM,"Law Dispatch"
+856.087500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+856.112500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+856.562500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+856.612500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+856.762500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+856.937500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+857.187500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+857.762500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+857.937500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+858.012500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+858.762500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+858.937500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+859.762500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+859.937500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 002 KS Wyandotte County",,,,"Project 25",,TRS
+935.137500,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+935.287500,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+935.437500,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+935.675000,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+935.825000,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+936.012500,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+936.037500,0.00000," ","Evergy (DMR T3)","Site 021 Kansas City, KS",,,,DMR,,TRS
+936.237500,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+936.262500,0.00000," ","Evergy (DMR T3)","Site 021 Kansas City, KS",,,,DMR,,TRS
+936.412500,0.00000," ","Evergy (DMR T3)","Site 021 Kansas City, KS",,,,DMR,,TRS
+939.537500,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+939.750000,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS
+939.900000,0.00000," ","General Motors Fairfax Assembly Plant","Site 001 Plant",,,,DMR,,TRS

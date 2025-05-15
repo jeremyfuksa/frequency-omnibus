@@ -1,0 +1,78 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+150.995000,159.16500,KDV670,"Leavenworth County","Highway Maintenance",LeavenworthCoRds,"146.2 PL",,FMN,RM,"Public Works"
+153.950000,0.00000,KIA796,"Leavenworth County","Fire and EMS 2 - Tactical 1",LeavenworthCoFD2,"172 DPL",,FMN,M,Fire-Tac
+154.130000,153.90500,KNIS980,"Leavenworth County","MERS (Metropolitan Emergency Radio Service) -- Link with National Weather Service","MERS Radio","151.4 PL",,FMN,RM,"Emergency Ops"
+154.280000,0.00000,KB80918,"Leavenworth County","County Fire - Mutual Aid","LeavenworthCo FD",CSQ,,FMN,M,Fire-Tac
+154.310000,0.00000,KIA796,"Leavenworth County","Fire and EMS 3 - Tactical 2",LeavenworthCoFD3,"172 DPL",,FMN,M,Fire-Tac
+154.385000,150.80500,KIA796,"Leavenworth County","Fire and EMS Dispatch",LeavenworthCoFD1,"172 DPL",,FMN,RM,"Fire Dispatch"
+155.130000,0.00000,KUQ764,"Lansing Correctional Facility","Prison 4 - Maintenance","Lansing Prison 4",,,FMN,BM,Corrections
+155.310000,156.15000,KUQ764,"Lansing Correctional Facility","Prison 1 -Central Unit Main","Lansing Prison 1",,,FMN,RM,Corrections
+155.535000,159.09750,KNIR735,"Lansing Correctional Facility","Prison 6 - East Unit Main","Lansing Prison 6",,,FMN,RM,Corrections
+155.820000,153.78500,KNBY309,"Leavenworth County","Emergency Management","Leavnworth Co EM","114 DPL",,FMN,RM,"EMS Dispatch"
+156.150000,0.00000,KUQ764,"Lansing Correctional Facility","Prison 5 - Tactical","Lansing Prison 5",,,FMN,BM,Corrections
+159.015000,0.00000,WNUQ373,"Leavenworth County","Highway Maintenance - Hand-Helds used on construction sites",LeavenworthCoRds,"146.2 PL",,FMN,M,"Public Works"
+380.125000,0.00000," ","US Army Fort Leavenworth","Site 005 Fort Leavenworth",,,,"Project 25",,TRS
+380.425000,0.00000," ","US Army Fort Leavenworth","Site 005 Fort Leavenworth",,,,"Project 25",,TRS
+380.725000,0.00000," ","US Army Fort Leavenworth","Site 005 Fort Leavenworth",,,,"Project 25",,TRS
+380.987500,0.00000," ","US Army Fort Leavenworth","Site 005 Fort Leavenworth",,,,"Project 25",,TRS
+381.162500,0.00000," ","US Army Fort Leavenworth","Site 005 Fort Leavenworth",,,,"Project 25",,TRS
+381.425000,0.00000," ","US Army Fort Leavenworth","Site 005 Fort Leavenworth",,,,"Project 25",,TRS
+381.625000,0.00000," ","US Army Fort Leavenworth","Site 005 Fort Leavenworth",,,,"Project 25",,TRS
+381.975000,0.00000," ","US Army Fort Leavenworth","Site 005 Fort Leavenworth",,,,"Project 25",,TRS
+406.812500,0.00000," ","US Penitentiary Leavenworth","Site 001 Primary",,,,Motorola,,TRS
+407.012500,0.00000," ","US Penitentiary Leavenworth","Site 001 Primary",,,,Motorola,,TRS
+408.250000,0.00000," ","US Penitentiary Leavenworth","Site 001 Primary",,,,Motorola,,TRS
+409.212500,0.00000," ","US Penitentiary Leavenworth","Site 001 Primary",,,,Motorola,,TRS
+442.000000,447.00000,N0RC,"Leavenworth County Repeaters","442.000 Basehor -- K0USY Repeater Network",442.000,"CC 1|TG *|SL *",,DMR,RM,Ham
+451.050000,0.00000,WQWL516,"Utilities Suburban Water Inc.","Water Tower Level Data",SuburbanWaterInc,,,Telm,F,Data
+451.500000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+453.200000,458.20000,KAB272,Leavenworth,"Police 2 (Secondary before KSICS)","Leavenworth PD 2","731 DPL",,FMN,RM,"Law Tac"
+453.350000,458.35000,KAB272,Leavenworth,"Police 1 (Dispatch before KSICS)","Leavenworth PD 1","754 DPL",,FMN,RM,"Law Dispatch"
+454.250000,0.00000," ","MotoNet CP+ (DMR)","Site 006 Leavenworth",,,,DMR,,TRS
+458.662500,0.00000,KD42533,"Leavenworth County","Sheriff - Community Corrections",LeavenworthCoCC,"103.5 PL",,FMN,M,Corrections
+461.075000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+461.075000,0.00000," ","MotoNet CP+ (DMR)","Site 006 Leavenworth",,,,DMR,,TRS
+461.075000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 004 Leavenworth 1",,,,LTR,,TRS
+461.150000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+461.150000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 004 Leavenworth 1",,,,LTR,,TRS
+461.225000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+461.225000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 004 Leavenworth 1",,,,LTR,,TRS
+461.225000,0.00000," ","MotoNet CP+ (DMR)","Site 006 Leavenworth",,,,DMR,,TRS
+461.475000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+461.475000,0.00000," ","MotoNet CP+ (DMR)","Site 006 Leavenworth",,,,DMR,,TRS
+461.775000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+461.775000,0.00000," ","MotoNet CP+ (DMR)","Site 006 Leavenworth",,,,DMR,,TRS
+462.137500,0.00000," ","MotoNet CP+ (DMR)","Site 006 Leavenworth",,,,DMR,,TRS
+462.250000,0.00000," ","Hallmark Cards Warehouse","Site 001 Warehouse",,,,DMR,,TRS
+462.425000,0.00000," ","Hallmark Cards Warehouse","Site 001 Warehouse",,,,DMR,,TRS
+463.212500,0.00000," ","MotoNet CP+ (DMR)","Site 006 Leavenworth",,,,DMR,,TRS
+463.212500,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+463.337500,0.00000," ","Leavenworth Public Schools USD 453","Site 001 High School",,,,DMR,,TRS
+463.537500,0.00000," ","Leavenworth Public Schools USD 453","Site 001 High School",,,,DMR,,TRS
+463.787500,0.00000," ","Leavenworth Public Schools USD 453","Site 001 High School",,,,DMR,,TRS
+464.075000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+464.075000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 004 Leavenworth 1",,,,LTR,,TRS
+464.137500,0.00000," ","Leavenworth Public Schools USD 453","Site 001 High School",,,,DMR,,TRS
+464.150000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+464.150000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 004 Leavenworth 1",,,,LTR,,TRS
+464.200000,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+464.487500,0.00000," ","Midwest Mobile Radio Service - Kansas","Site 005 Leavenworth 2",,,,LTR,,TRS
+464.487500,0.00000," ","MotoNet CP+ (DMR)","Site 006 Leavenworth",,,,DMR,,TRS
+851.187500,806.18750,WPRT665,Tonganoxie,"Police (Ch 14)","Tonganoxie PD 14","156.7 PL",,FM,RM,"Law Tac"
+851.300000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+851.850000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+852.062500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+852.312500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+852.725000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+853.137500,808.13750,WPRT665,Tonganoxie,"Police (Ch 13)","Tonganoxie PD 13","156.7 PL",,FM,RM,"Law Tac"
+853.137500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+853.187500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+853.475000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+853.650000,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+853.937500,0.00000," ","Kansas Statewide Interoperable Communication System (KSICS)","Site 041 Leavenworth County",,,,"Project 25",,TRS
+855.487500,810.48750,KNNR258,"Leavenworth County","Sheriff Portable Repeater (also used at the  County Jail)",LeavenwrthCoJail,"047 DPL",,FM,RM,"Law Tac"
+856.837500,811.83750,WNNS500,"Leavenworth County","Sheriff Dispatch",LeavenworthCoSO1,"114 DPL",,FM,RM,"Law Dispatch"
+857.837500,812.83750,WNNS500,"Leavenworth County","Sheriff 2 - Tactical",LeavenworthCoSO2,"156 DPL",,FM,RM,"Law Tac"
+858.362500,813.36250,WNNS500,"Leavenworth County","Sheriff 3 - Small Town Police Dispatch",LeavenworthCoSO3,"624 DPL",,FM,RM,"Law Dispatch"
+935.187500,0.00000," ","Evergy (DMR T3)","Site 033 Leavenworth",,,,DMR,,TRS
+935.337500,0.00000," ","Evergy (DMR T3)","Site 033 Leavenworth",,,,DMR,,TRS

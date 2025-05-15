@@ -1,0 +1,127 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+108.600000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations",VOT,"MKC VOT",CSQ,,AM,BM,Aircraft
+109.900000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","ILS to Runway 19","MKC ILS R-19",CSQ,,AM,BM,Aircraft
+111.400000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Riverside VOR (located on airport)",RiversideVOR,CSQ,,AM,BM,Aircraft
+111.750000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","ILS to Runway 3","MKC ILS R-3k",CSQ,,AM,BM,Aircraft
+118.400000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Kansas City Departure/Arrival","MKC Dep/Arr",CSQ,,AM,BM,Aircraft
+120.075000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Automated Terminal Information Service","MKC ATIS",CSQ,,AM,BM,Aircraft
+121.900000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Ground Control","MKC Ground",CSQ,,AM,BM,Aircraft
+122.600000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Columbia Radio (Remote Communication)",ColumbiaRmte,CSQ,,AM,BM,Aircraft
+122.950000,0.00000,WQRK355,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations",Unicom,"MKC UNICOM",CSQ,,AM,BM,Aircraft
+123.950000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Kansas City Departure/Arrival","MKC Arr/Dep",CSQ,,AM,BM,Aircraft
+129.100000,0.00000,WQKE552,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Hangar 10 (NW side of airport)","MKC Hangar10",CSQ,,AM,BM,Aircraft
+129.575000,0.00000,KXZ9,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Executive Beechcraft (SE side of airport)",ExecBchcraft,CSQ,,AM,BM,Aircraft
+133.300000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations",Tower,"MKC Tower",CSQ,,AM,BM,Aircraft
+145.190000,0.00000," ","Missouri BrandMeister DMR","Site 121 Excelsior Springs",,,,DMR,,TRS
+146.700000,146.10000,,SKYWARN,"Secondary Repeater","KC SkyWarn 2","107.2 PL","107.2 PL",FM,RM,Ham
+147.270000,147.87000,,SKYWARN,"Primary Repeater","KC SkyWarn 1",CSQ,CSQ,FM,RM,Ham
+150.995000,159.13500,KDB474,"Clay County","Public Works / Roads","Clay Co Roads","155 DPL",,FMN,RM,"Public Works"
+151.145000,0.00000,WNPU820,Smithville,"City Operations","Smthvl City1",,,FMN,BM,Multi-Dispatch
+151.385000,0.00000,,"Excelsior Springs",Fire,"ExSp Fire 3","103.5 PL",,FMN,BM,Fire-Tac
+151.685000,0.00000,WPAN369,"Liberty Hospital","Operations [Expired 9/12]","LibHosp Ops 1",,,FMN,BM,Business
+151.925000,0.00000,WSF221,"St Lukes Northland Hospital (Smithville)",Operations,"SLNH Ops",,,FMN,BM,Business
+153.230000,0.00000,WQRL660,"Lawson Schools","Durham School Bus: Lawson District [Expired 6/23]","Lawson Sch Bus","413 DPL",,FMN,BM,Schools
+153.830000,0.00000,KAH459,Smithville,Fireground,SmithvilleFG,,,FMN,M,Fire-Tac
+154.130000,153.90500,WNBC651,"Mid-America Regional Council","MERS: Metropolitan Emergency Radio Service - Link w/ NWS [Expired 2/15]","MERS KC Link/NWS","151.4 PL",,FMN,RM,"Emergency Ops"
+154.175000,0.00000,WQU470,Mosby,"Fishing River Fire Protection Dispatch [Expired 1/11]","FishRiver Fire","118.8 PL",,FMN,BM,"Fire Dispatch"
+154.190000,0.00000,,"Clay County","Fire: Dispatch","Clay Co Fire",,,FMN,BM,"Fire Dispatch"
+154.190000,0.00000,KAH459,Smithville,"Fire: Link to Platte County","Platte Fire",,,FMN,BM,"Fire Dispatch"
+154.340000,159.04500,WPKZ345,Holt,"Fire: Dispatch","Holt Fire","315 DPL",,FMN,RM,"Fire Dispatch"
+154.710000,0.00000,KIZ311,Liberty,"Fire: Dispatch","Liberty Fire","162.2 PL",,FMN,BM,"Fire Dispatch"
+154.740000,158.97750,KLK658,Liberty,"Police: Tactical [Expired 6/14]","Lib Police Tac","156.7 PL",,FMN,RM,"Law Tac"
+154.800000,159.03750,KLK658,Liberty,"Police: Dispatch [Expired 6/14]","Lib Police","167.9 PL",,FMN,RM,"Law Dispatch"
+154.965000,0.00000,KRJ858,"Clay County","(OLD?) Law","Clay Sheriff 5",,,FMN,BM,"Law Dispatch"
+154.965000,0.00000,KUZ692,"Clay County","EMA [Expired 6/23]","Clay Co EMA",,,FMN,BM,"Emergency Ops"
+155.010000,0.00000,WPKH795,"Excelsior Springs","(Old) Police","ExSp PD Coun","103.5 PL",,FMN,BM,"Law Tac"
+155.055000,0.00000,WPCP682,"Northwest Regional Youth Center DSS (Kansas City)",Operations,"NWRYC Ops",,,FMN,M,Corrections
+155.085000,0.00000,KLK659,Liberty,"Services / Police [Ch 2]","Lib Services","162.2 PL",,FMN,BM,"Law Talk"
+155.100000,0.00000,,"Excelsior Springs",Fire,"ExSp Fire 2","103.5 PL",,FMN,BM,Fire-Tac
+155.115000,0.00000,KNIR645,"Pleasant Valley","Outdoor Warning Sirens","PlsntVally Siren",,,Telm,M,"Emergency Ops"
+155.340000,0.00000,KDX974,"Liberty Hospital","Patient Reports",HEAR340,,,FMN,BM,Hospital
+155.340000,0.00000,KDU609,"St Lukes Northland Hospital (Smithville)","Patient Reports",HEAR340,,,FMN,B,Hospital
+155.355000,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 023 Lawson",,,,"Project 25",,TRS
+155.400000,0.00000,WPCF287,"Excelsior Springs Hospital","Operations [Expired 5/23]",ExSpingsHospital,,,FMN,BM,Hospital
+155.437500,159.00750,WPWV784,"Excelsior Springs","(Old) Police: Dispatch","ExSp Police","031 DPL",,FMN,RM,"Law Dispatch"
+155.655000,0.00000,WXY478,"Clay County","Golf Course","Clay GolfCourse","127.3 PL",,FMN,BM,Business
+155.677500,159.20250,WPWV784,"Excelsior Springs",Fire,"ExSp Fire R","051 DPL",,FMN,RM,"Fire Dispatch"
+155.700000,154.96500,KAB360,"Clay County","Sheriff: Private 1","Clay Shrf Pvt-1","155 DPL",,FMN,RM,"Law Dispatch"
+155.730000,0.00000,KAB360,"Clay County","Sheriff: Countywide Rural Law","Clay Rural Law","94.8 PL",,FMN,B,"Law Dispatch"
+155.775000,0.00000,WXB875,"Clay County","Parks and Recreation: Park Rangers","Clay Parks","127.3 PL",,FMN,BM,"Public Works"
+155.805000,0.00000,KRG682,Gladstone,"Fire/EMS: Paging/Tone-Outs (in use?)","Glad Fire/EMS PG",CSQ,,FMN,B,"Fire Dispatch"
+155.932500,158.86500,WQEE288,"Fishing River Fire Protection District (Missouri City/Mosby)","Fire: Dispatch / Talk-Around","FRiver Fire","192.8 PL",,FMN,RM,"Fire Dispatch"
+156.112500,159.11250,WPWV784,"Excelsior Springs","(Old) Police: Tactical","ExSp Police Tac ","071 DPL",,FMNE,RM,"Law Tac"
+156.187500,154.83750,KAH459,Smithville,"Fire: Dispatch (DB: Platte County)","Smthvl Fire","466 DPL",,FMN,RM,"Fire Dispatch"
+158.782500,0.00000,KIZ311,Liberty,Fireground,"Liberty FG","162.2 PL",,FMN,M,Fire-Talk
+158.835000,0.00000,KAB360,"Clay County","(OLD?) Sheriff: Mobile Extenders","Clay Sheriff MX",,,FMN,M,"Law Dispatch"
+159.825000,0.00000,WPKH795,"Clay County","Sheriff: Private 2","Clay Shrf Pvt-2","88.5 PL",,FMN,BM,"Law Dispatch"
+159.960000,0.00000,WQQM851,"Kearney Reorganized School District 1","Durham School Bus: Kearney District [Expired 1/23]","Kearney Sch Bus","423 DPL",,FMN,BM,Schools
+166.250000,0.00000,,Miscellaneous,"Excelsior Springs Job Corp","ES Job Corp","173.8 PL",,FMN,BM,Federal
+169.662500,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 023 Lawson",,,,"Project 25",,TRS
+171.262500,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 023 Lawson",,,,"Project 25",,TRS
+171.650000,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 023 Lawson",,,,"Project 25",,TRS
+172.462500,0.00000," ","Missouri Statewide Wireless Interoperable Network (MOSWIN)","Site 023 Lawson",,,,"Project 25",,TRS
+173.262500,0.00000,WQSG402,"Clay County","Public Water Supply District 9: Telemetry","ClayCoPWSD9 Data",CSQ,,FMN,F,Data
+173.287500,0.00000,WPRI706,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Automated Weather Observation System","MKC AWOS 173",,,Telm,F,Data
+173.390000,0.00000,WNPC301,Gladstone,"Water Data","Glad Water Data",,,Telm,F,Data
+257.800000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations",Tower,"MKC Tower",CSQ,,AM,BM,Aircraft
+294.700000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Kansas City Departure/Arrival","MKC App/Dep",CSQ,,AM,BM,Aircraft
+318.100000,0.00000,,"Charles B. Wheeler Kansas City Downtown Airport (MKC) Operations","Kansas City Departure/Arrival","MKC App/Dep",CSQ,,AM,BM,Aircraft
+452.275000,457.72500,KNAH850,"Liberty School District 53","District-wide Operations","Liberty School A",,,FMN,RM,Schools
+453.237500,0.00000,WNPU820,Smithville,"City Operations","Smthvl City2",,,FMN,M,Multi-Dispatch
+453.637500,0.00000,WNPU820,Smithville,"City Operations","Smthvl City3",,,FMN,RM,Multi-Dispatch
+456.137500,0.00000,WQCK980,"Clay County","Clay County Public Water District: Water Data","Clay Water Data",,,Telm,F,Data
+460.237500,465.23750,KAB360,"Clay County","Jail Operations","Clay Shrf Jail",,,FMN,RM,Corrections
+461.012500,466.06250,KNHN318,"Excelsior Springs Schools","Administration Building","ExSp Schools",,,FMN,RM,Schools
+461.462500,466.46250,WQEZ573,"Businesses, Attractions and Recreation FedEx Ground (Independence)","Supervisor - Main","FedEx Sprvsr1 ","051 DPL",,FMN,RM,Business
+462.012500,0.00000,WQEZ573,"Businesses, Attractions and Recreation FedEx Ground (Independence)",Operations,"FedEx Sprvsr2 ","074 DPL",,FMN,M,Business
+462.100000,467.10000,WPJG966,"Liberty Hospital","Maintenance/Engeering Ops","LibHosp Mnt/Eng",,,FMN,RM,Business
+462.425000,467.42500,KNAH850,"Liberty School District 53","District-wide Operations","Liberty School B",,,FMN,RM,Schools
+462.675000,467.67500,,"Businesses, Attractions and Recreation Miscellaneous","METRO KC Emergency Communication Services","METRO KC Emergnc","141.3 PL",,FMN,RM,"Emergency Ops"
+463.287500,0.00000," ",Cerner,"Site 001 World Headquarters Campus (NKC)",,,,DMR,,TRS
+463.425000,468.42500,KUT966,"Businesses, Attractions and Recreation Worlds of Fun/Oceans of Fun","Security [Ch 1]","WOF Securit1","91.5 PL",,FMN,RM,Security
+463.625000,0.00000," ",Cerner,"Site 001 World Headquarters Campus (NKC)",,,,DMR,,TRS
+463.775000,468.77500,KNCU392,"Businesses, Attractions and Recreation Worlds of Fun/Oceans of Fun","Ride Operations [Ch 4]  (131.8 in)","WOF Rides 4","114.8 PL",,FMN,RM,Business
+464.175000,469.17500,KWF236,"Businesses, Attractions and Recreation Worlds of Fun/Oceans of Fun","Retail Operations [Ch 3]","WOF Retail 3","77.0 PL",,FMN,RM,Business
+464.200000,469.20000,WQFM262,"Liberty Hospital","Campus Ops (Independence)","LibHosp Ops 2",,,FMN,RM,Business
+464.275000,469.27500,WPGZ859,"Businesses, Attractions and Recreation Worlds of Fun/Oceans of Fun","Ride Maintenance [Ch 2] (67.0 in)","WOF Maintnc2","88.5 PL",,FMN,RM,Business
+467.850000,0.00000,,"Businesses, Attractions and Recreation Businesses - Miscenallenous","Burlington: Security/Ops  (Antioch Crossing)","Burlington Ant","351 DPL",,FMN,M,Business
+851.237500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+851.487500,0.00000,WNNM246,Gladstone,"Police: Tac-5 (Backup to MARRS)","Glad Police Tac5","103.5 PL",,FMN,M,"Law Tac"
+851.825000,806.82500,WQCN448,Gladstone,"Public Safety (Backup to MARRS)","Glad PublcSaftey","103.5 PL",,FMN,RM,Multi-Talk
+852.100000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+852.687500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+853.312500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+853.950000,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+854.312500,0.00000," ","AmerenMissouri (P25)","Site 001 Lawson",,,,"Project 25",,TRS
+854.687500,809.68750,WNNM246,Gladstone,"Fire/EMS: Dispatch [Ch 3] (Backup to MARRS)","Glad Fire/EMS  ","103.5 PL",,FMN,RM,"Fire Dispatch"
+854.837500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+855.287500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+855.587500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+855.912500,0.00000," ","AmerenMissouri (P25)","Site 001 Lawson",,,,"Project 25",,TRS
+856.537500,811.53750,WNNM246,Gladstone,"Police: Dispatch (Backup to MARRS)","Glad Police Old","103.5 PL",,FMN,RM,"Law Dispatch"
+857.037500,812.03750,WNCE201,"North Kansas City School District","Transportation [Expired 10/21]","NKCPS Trans","243 DPL",,FMN,RM,Schools
+857.087500,0.00000," ","AmerenMissouri (P25)","Site 001 Lawson",,,,"Project 25",,TRS
+858.087500,0.00000," ","AmerenMissouri (P25)","Site 001 Lawson",,,,"Project 25",,TRS
+858.187500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+858.512500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+859.187500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+859.537500,0.00000," ","Metropolitan Area Regional Radio System (MARRS)","Site 008 MO Excelsior Springs",,,,"Project 25",,TRS
+935.400000,0.00000," ","Evergy (DMR T3)","Site 072 North Kansas City (*)",,,,DMR,,TRS
+935.550000,0.00000," ","Evergy (DMR T3)","Site 072 North Kansas City (*)",,,,DMR,,TRS
+935.637500,0.00000," ","Ford: Kansas City Assembly Plant","Site 001 Ford KCMO",,,,DMR,,TRS
+935.725000,0.00000," ","Ford: Kansas City Assembly Plant","Site 001 Ford KCMO",,,,DMR,,TRS
+935.837500,0.00000," ","Evergy (DMR T3)","Site 069 Nashua (*)",,,,DMR,,TRS
+936.000000,0.00000," ","Evergy (DMR T3)","Site 069 Nashua (*)",,,,DMR,,TRS
+936.137500,0.00000," ","Ford: Kansas City Assembly Plant","Site 001 Ford KCMO",,,,DMR,,TRS
+936.150000,0.00000," ","Ameristar Casino Kansas City (DMR)","Site 001 Casino",,,,DMR,,TRS
+936.162500,0.00000," ","Ameristar Casino Kansas City (DMR)","Site 001 Casino",,,,DMR,,TRS
+936.175000,0.00000," ","Ameristar Casino Kansas City (DMR)","Site 001 Casino",,,,DMR,,TRS
+936.187500,0.00000," ","Ameristar Casino Kansas City (DMR)","Site 001 Casino",,,,DMR,,TRS
+936.200000,0.00000," ","Ameristar Casino Kansas City (DMR)","Site 001 Casino",,,,DMR,,TRS
+936.212500,0.00000," ","Evergy (DMR T3)","Site 072 North Kansas City (*)",,,,DMR,,TRS
+936.362500,0.00000," ","Evergy (DMR T3)","Site 072 North Kansas City (*)",,,,DMR,,TRS
+938.400000,0.00000," ","Ford: Kansas City Assembly Plant","Site 001 Ford KCMO",,,,DMR,,TRS
+939.000000,0.00000," ","Ford: Kansas City Assembly Plant","Site 001 Ford KCMO",,,,DMR,,TRS
+939.487500,0.00000," ","Ford: Kansas City Assembly Plant","Site 001 Ford KCMO",,,,DMR,,TRS
+939.500000,0.00000," ","Ford: Kansas City Assembly Plant","Site 001 Ford KCMO",,,,DMR,,TRS
+939.925000,0.00000," ","Ford: Kansas City Assembly Plant","Site 001 Ford KCMO",,,,DMR,,TRS
