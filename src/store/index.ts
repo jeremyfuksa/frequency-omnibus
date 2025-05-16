@@ -12,11 +12,12 @@ import {
   TrunkedSystemFilter,
   TalkgroupFilter
 } from '../types/models'
+import { DatabaseService } from '../lib/db/database'
 
 // Database Store
 interface DatabaseState {
-  db: Database | null
-  setDb: (db: Database) => void
+  db: DatabaseService | null
+  setDb: (db: DatabaseService) => void
   isLoading: boolean
   setLoading: (loading: boolean) => void
   error: string | null

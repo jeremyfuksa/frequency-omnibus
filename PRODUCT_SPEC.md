@@ -1,155 +1,189 @@
-# Frequency Omnibus: Product Specification
+# KC Frequency Omnibus - Product Specification
 
-## Product Vision
-Frequency Omnibus is a modern, web-based radio frequency management system designed for amateur radio operators, scanner enthusiasts, and public safety professionals in the Kansas City metropolitan area. It provides a unified interface for managing, organizing, and exporting radio frequencies across multiple formats and devices.
-
-## Target Users
-1. **Primary Users:**
-   - Amateur radio operators
-   - Scanner enthusiasts
-   - Public safety professionals
-   - Radio hobbyists
-
-2. **Secondary Users:**
-   - Radio dealers and technicians
-   - Emergency management personnel
-   - Local government agencies
+## Overview
+KC Frequency Omnibus is a comprehensive frequency management system designed for amateur radio operators and scanner enthusiasts in the Kansas City metropolitan area. The application provides a centralized database for managing conventional frequencies, trunked systems, and export profiles for various radio models.
 
 ## Core Features
 
-### 1. Frequency Management
-- **Conventional Frequencies**
-  - Add, edit, and delete frequencies
-  - Support for multiple modes (FM, NFM, AM, DMR, P25)
-  - Tone and DCS code management
-  - Geographic tagging (county, state)
-  - Service type classification
+### 1. Database Management
+- SQLite-based local database for persistent storage
+- Automatic schema initialization
+- Database backup and restore functionality
+- Settings persistence across sessions
+- Specialized database views for common queries
+- Type-safe database operations
+
+### 2. Frequency Management
+- Store and manage conventional frequencies with detailed metadata:
+  - Frequency and transmit frequency
+  - Name and description
+  - Alpha tag and mode
+  - Tone mode and frequency
+  - Location data (county, state)
+  - Agency and callsign information
+  - Service type and tags
+  - Duplex and offset settings
+  - Verification status and notes
+  - Geographic coordinates
+  - Export flags for different radio models
+- Advanced filtering and search capabilities
+- Batch operations support
+- Frequency range validation
+- Mode compatibility checking
+
+### 3. Trunked System Management
+- Comprehensive trunked system tracking:
+  - System identification and classification
+  - Business type and ownership
+  - Protocol and WACN information
+  - Site management with location data
+  - Talkgroup organization
   - Active/inactive status tracking
+- Hierarchical system visualization
+- Site coverage mapping
+- Talkgroup categorization
+- System protocol validation
 
-- **Trunked Systems**
-  - Hierarchical organization (system → site → talkgroup)
-  - Protocol support (P25, DMR, NXDN)
-  - System class and type classification
-  - Business type and ownership tracking
-
-### 2. Data Organization
-- **Filtering & Search**
-  - Full-text search across all fields
-  - Mode-based filtering
-  - Service type filtering
-  - Geographic filtering
-  - Active status filtering
-
-- **Data Visualization**
-  - Card-based frequency display
-  - Hierarchical trunked system view
-  - Tag-based organization
-  - Status indicators
-
-### 3. Export Capabilities
-- **Supported Formats:**
-  - CHIRP (Baofeng radios)
-  - Uniden scanners
+### 4. Export Capabilities
+- Support for multiple radio formats:
+  - CHIRP
+  - Uniden
   - SDRTrunk
+  - SDRPlus
   - OpenGD77
-  - SDR++
+- Export profile management
+- Radio model compatibility checking
+- Frequency range validation
+- Mode support verification
+- Custom export filters
+- Format-specific validation
 
-- **Export Features:**
-  - Format-specific field mapping
-  - Selective export by frequency
-  - Batch export capabilities
-  - Export profile management
+### 5. User Interface
+- Modern, responsive design
+- Dark mode support
+- Persistent UI state
+- Tab-based navigation:
+  - Conventional Frequencies
+  - Trunked Systems
+  - Export Profiles
+  - Settings
+- Collapsible sidebar
+- Modal dialogs for data entry
+- Advanced filtering interface
+- Batch operation tools
+- Status indicators
+- Toast notifications
 
-### 4. User Interface
-- **Design Principles:**
-  - Clean, modern aesthetic
-  - Responsive layout
-  - Dark/light mode support
-  - Intuitive navigation
+### 6. Data Import/Export
+- CSV import support for:
+  - Conventional frequencies
+  - Trunked systems
+  - Talkgroups
+- RadioReference JSON format support
+- Database backup/restore functionality
+- Format validation
+- Error handling and reporting
+- Import conflict resolution
 
-- **Key Components:**
-  - Sidebar navigation
-  - Modal dialogs for data entry
-  - Filter panels
-  - Status indicators
-  - Action buttons
+### 7. Settings Management
+- Persistent application settings:
+  - UI preferences (dark mode, sidebar state)
+  - Active tab selection
+  - Modal states
+  - Default region selection
+- Settings stored in SQLite database
+- Type-safe settings management
+- Settings migration support
+- Default value handling
+
+### 8. Integration Features
+- Basic Ham Dash integration for frequency data sharing
+- Simple file-based data exchange
+- Basic status monitoring
 
 ## Technical Requirements
 
-### 1. Frontend
-- React 18 with TypeScript
-- Tailwind CSS for styling
-- shadcn/ui component library
+### Database Schema
+- SQLite database with the following tables:
+  - frequencies
+  - trunked_systems
+  - trunked_sites
+  - talkgroups
+  - counties
+  - radios
+  - export_profiles
+  - app_settings
+- Specialized views for common queries
+- Foreign key constraints
+- Indexes for performance
+- Type-safe query interface
+
+### State Management
 - Zustand for state management
-- Vite build system
+- Persistent state storage in SQLite
+- Type-safe state handling
+- Async state operations
+- State persistence
+- State migration support
+- Error state handling
 
-### 2. Database
-- SQLite (in-browser via SQL.js)
-- Comprehensive schema for frequencies, trunked systems, and metadata
-- Support for data import/export
-- Backup and restore capabilities
+### UI Framework
+- React with TypeScript
+- Tailwind CSS for styling
+- Responsive design
+- Dark mode support
+- Component library integration
+- Form validation
+- Error boundaries
+- Loading states
 
-### 3. Browser Support
-- Chrome 110+
-- Firefox 110+
-- Safari 16+
-- Edge 110+
-
-## User Experience Goals
-
-### 1. Efficiency
-- Quick access to frequently used features
-- Streamlined data entry
-- Efficient filtering and search
-- Fast export process
-
-### 2. Accuracy
-- Data validation on input
-- Format-specific export validation
-- Duplicate detection
-- Data integrity checks
-
-### 3. Flexibility
-- Multiple export formats
-- Customizable views
-- Flexible filtering options
-- Extensible data model
-
-## Success Metrics
-1. **User Engagement**
-   - Number of frequencies managed
-   - Export frequency
-   - Session duration
-
-2. **Data Quality**
-   - Frequency accuracy
-   - Completeness of records
-   - Update frequency
-
-3. **System Performance**
-   - Load time
-   - Export speed
-   - Search response time
+### Data Validation
+- Frequency range validation
+- Mode compatibility checking
+- Required field validation
+- Type safety throughout
+- Cross-field validation
+- Format-specific validation
+- Import data validation
 
 ## Future Considerations
-1. **Potential Enhancements**
-   - Mobile app version
-   - Cloud sync capabilities
-   - Additional export formats
-   - API integration
 
-2. **Scalability**
-   - Support for additional regions
-   - Extended frequency range
-   - More trunked system protocols
-   - Enhanced data visualization
+### Phase 1: Core Features (Current)
+- Basic frequency management
+- Simple trunked system support
+- Essential export formats
+- Core UI functionality
+- Basic settings management
 
-## Maintenance & Support
-- Quarterly data review
-- Regular feature updates
-- User feedback integration
-- Documentation maintenance
+### Phase 2: Enhanced Integration
+- Advanced Ham Dash integration:
+  - File-based exchange mechanisms
+  - Event system for real-time communication
+  - Radio display configuration
+  - Frequency activity feed
+  - Configuration export capabilities
+- Real-time monitoring capabilities
+- Advanced status tracking
+- Priority frequency management
 
----
+### Phase 3: Advanced Features
+- Real-time frequency monitoring
+- Integration with additional radio models
+- Advanced filtering and search capabilities
+- User authentication and cloud sync
+- Mobile application support
+- API for third-party integration
 
-*This specification reflects the current implementation while providing a framework for future development. It serves as a living document that will evolve with user needs and technological advancements.* 
+## Development Guidelines
+- TypeScript for type safety
+- React for UI components
+- Zustand for state management
+- SQLite for data persistence
+- Tailwind CSS for styling
+- Modular service architecture
+- Comprehensive error handling
+- Async/await for all database operations
+- Component-driven development
+- Test-driven development
+- Documentation requirements
+- Code review process 

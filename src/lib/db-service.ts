@@ -134,6 +134,121 @@ export class DatabaseService {
         created_at TEXT NOT NULL,
         updated_at TEXT
       );
+
+      -- Create specialized database views
+      
+      -- CHIRP Export View - Conventional frequencies formatted for CHIRP export
+      DROP VIEW IF EXISTS view_chirp_export;
+      CREATE VIEW view_chirp_export AS
+      SELECT 
+        id,
+        frequency,
+        name,
+        alpha_tag,
+        duplex,
+        offset,
+        tone_mode,
+        tone_freq,
+        mode,
+        'KC Frequency Omnibus' AS comment
+      FROM frequencies
+      WHERE export_chirp = 1 AND active = 1;
+      
+      -- Uniden Export View - Frequencies formatted for Uniden scanner import
+      DROP VIEW IF EXISTS view_uniden_export;
+      CREATE VIEW view_uniden_export AS
+      SELECT 
+        id,
+        frequency,
+        name,
+        alpha_tag,
+        mode,
+        tone_mode,
+        tone_freq,
+        county,
+        state,
+        service_type
+      FROM frequencies
+      WHERE export_uniden = 1 AND active = 1;
+      
+      -- SDRTrunk Conventional View - Conventional systems for SDRTrunk
+      DROP VIEW IF EXISTS view_sdrtrunk_conventional;
+      CREATE VIEW view_sdrtrunk_conventional AS
+      SELECT 
+        id,
+        frequency,
+        name,
+        description,
+        mode,
+        county,
+        state,
+        service_type
+      FROM frequencies
+      WHERE export_sdrtrunk = 1 AND active = 1;
+      
+      -- OpenGD77 Export View - Frequencies formatted for OpenGD77 DMR radio
+      DROP VIEW IF EXISTS view_opengd77_export;
+      CREATE VIEW view_opengd77_export AS
+      SELECT 
+        id,
+        frequency,
+        transmit_frequency,
+        name,
+        alpha_tag,
+        mode,
+        tone_mode,
+        tone_freq
+      FROM frequencies
+      WHERE export_opengd77 = 1 AND active = 1 AND (mode = 'DMR' OR mode = 'FM' OR mode = 'FMN');
+      
+      -- KC Repeaters View - All repeaters in KC area
+      DROP VIEW IF EXISTS view_kc_repeaters;
+      CREATE VIEW view_kc_repeaters AS
+      SELECT 
+        id,
+        frequency,
+        transmit_frequency,
+        name,
+        description,
+        mode,
+        tone_mode,
+        tone_freq,
+        county,
+        callsign
+      FROM frequencies
+      WHERE distance_from_kc <= 50 
+        AND active = 1 
+        AND (duplex = '+' OR duplex = '-')
+        AND transmit_frequency IS NOT NULL;
+      
+      -- Business Trunked View - Business trunked systems
+      DROP VIEW IF EXISTS view_business_trunked;
+      CREATE VIEW view_business_trunked AS
+      SELECT 
+        ts.id,
+        ts.system_id,
+        ts.name,
+        ts.description,
+        ts.business_type,
+        ts.business_owner
+      FROM trunked_systems ts
+      WHERE ts.system_class = 'Business'
+        AND ts.active = 1;
+      
+      -- Business Frequencies View - Conventional business frequencies
+      DROP VIEW IF EXISTS view_business_frequencies;
+      CREATE VIEW view_business_frequencies AS
+      SELECT 
+        id,
+        frequency,
+        name,
+        description,
+        mode,
+        agency,
+        service_type
+      FROM frequencies
+      WHERE service_type = 'Business'
+        AND active = 1;
     `
     this.db.exec(schema)
   }
@@ -944,5 +1059,108 @@ export class DatabaseService {
 
   async deleteRadio(id: number): Promise<void> {
     this.db.run('DELETE FROM radios WHERE id = ?', [id])
+  }
+
+  // Database View Query Methods
+
+  async getChirpExportData(): Promise<any[]> {
+    const result = this.db.exec('SELECT * FROM view_chirp_export')
+    return result[0]?.values.map(row => ({
+      id: this.convertSqlValue(row[0]) as number,
+      frequency: this.convertSqlValue(row[1]) as number,
+      name: this.convertSqlValue(row[2]) as string,
+      alpha_tag: this.convertSqlValue(row[3]) as string,
+      duplex: this.convertSqlValue(row[4]) as string,
+      offset: this.convertSqlValue(row[5]) as number,
+      tone_mode: this.convertSqlValue(row[6]) as string,
+      tone_freq: this.convertSqlValue(row[7]) as string,
+      mode: this.convertSqlValue(row[8]) as string,
+      comment: this.convertSqlValue(row[9]) as string
+    })) || []
+  }
+
+  async getUnidenExportData(): Promise<any[]> {
+    const result = this.db.exec('SELECT * FROM view_uniden_export')
+    return result[0]?.values.map(row => ({
+      id: this.convertSqlValue(row[0]) as number,
+      frequency: this.convertSqlValue(row[1]) as number,
+      name: this.convertSqlValue(row[2]) as string,
+      alpha_tag: this.convertSqlValue(row[3]) as string,
+      mode: this.convertSqlValue(row[4]) as string,
+      tone_mode: this.convertSqlValue(row[5]) as string,
+      tone_freq: this.convertSqlValue(row[6]) as string,
+      county: this.convertSqlValue(row[7]) as string,
+      state: this.convertSqlValue(row[8]) as string,
+      service_type: this.convertSqlValue(row[9]) as string
+    })) || []
+  }
+
+  async getSdrtrunkConventionalData(): Promise<any[]> {
+    const result = this.db.exec('SELECT * FROM view_sdrtrunk_conventional')
+    return result[0]?.values.map(row => ({
+      id: this.convertSqlValue(row[0]) as number,
+      frequency: this.convertSqlValue(row[1]) as number,
+      name: this.convertSqlValue(row[2]) as string,
+      description: this.convertSqlValue(row[3]) as string,
+      mode: this.convertSqlValue(row[4]) as string,
+      county: this.convertSqlValue(row[5]) as string,
+      state: this.convertSqlValue(row[6]) as string,
+      service_type: this.convertSqlValue(row[7]) as string
+    })) || []
+  }
+
+  async getOpenGD77ExportData(): Promise<any[]> {
+    const result = this.db.exec('SELECT * FROM view_opengd77_export')
+    return result[0]?.values.map(row => ({
+      id: this.convertSqlValue(row[0]) as number,
+      frequency: this.convertSqlValue(row[1]) as number,
+      transmit_frequency: this.convertSqlValue(row[2]) as number,
+      name: this.convertSqlValue(row[3]) as string,
+      alpha_tag: this.convertSqlValue(row[4]) as string,
+      mode: this.convertSqlValue(row[5]) as string,
+      tone_mode: this.convertSqlValue(row[6]) as string,
+      tone_freq: this.convertSqlValue(row[7]) as string
+    })) || []
+  }
+
+  async getKCRepeaters(): Promise<any[]> {
+    const result = this.db.exec('SELECT * FROM view_kc_repeaters')
+    return result[0]?.values.map(row => ({
+      id: this.convertSqlValue(row[0]) as number,
+      frequency: this.convertSqlValue(row[1]) as number,
+      transmit_frequency: this.convertSqlValue(row[2]) as number,
+      name: this.convertSqlValue(row[3]) as string,
+      description: this.convertSqlValue(row[4]) as string,
+      mode: this.convertSqlValue(row[5]) as string,
+      tone_mode: this.convertSqlValue(row[6]) as string,
+      tone_freq: this.convertSqlValue(row[7]) as string,
+      county: this.convertSqlValue(row[8]) as string,
+      callsign: this.convertSqlValue(row[9]) as string
+    })) || []
+  }
+
+  async getBusinessTrunkedSystems(): Promise<any[]> {
+    const result = this.db.exec('SELECT * FROM view_business_trunked')
+    return result[0]?.values.map(row => ({
+      id: this.convertSqlValue(row[0]) as number,
+      system_id: this.convertSqlValue(row[1]) as string,
+      name: this.convertSqlValue(row[2]) as string,
+      description: this.convertSqlValue(row[3]) as string,
+      business_type: this.convertSqlValue(row[4]) as string,
+      business_owner: this.convertSqlValue(row[5]) as string
+    })) || []
+  }
+
+  async getBusinessFrequencies(): Promise<any[]> {
+    const result = this.db.exec('SELECT * FROM view_business_frequencies')
+    return result[0]?.values.map(row => ({
+      id: this.convertSqlValue(row[0]) as number,
+      frequency: this.convertSqlValue(row[1]) as number,
+      name: this.convertSqlValue(row[2]) as string,
+      description: this.convertSqlValue(row[3]) as string,
+      mode: this.convertSqlValue(row[4]) as string,
+      agency: this.convertSqlValue(row[5]) as string,
+      service_type: this.convertSqlValue(row[6]) as string
+    })) || []
   }
 } 

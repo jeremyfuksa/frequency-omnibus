@@ -1,0 +1,9 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+461.46250,466.46250,WQEZ573,,"Supervisor - Main","FedEx Sprvsr1 ","051 DPL",,FMN,RM,Business
+462.01250,0.00000,WQEZ573,,Operations,"FedEx Sprvsr2 ","074 DPL",,FMN,M,Business
+462.67500,467.67500,,,"METRO KC Emergency Communication Services","METRO KC Emergnc","141.3 PL",,FMN,RM,"Emergency Ops"
+463.42500,468.42500,KUT966,,"Security [Ch 1]","WOF Securit1","91.5 PL",,FMN,RM,Security
+463.77500,468.77500,KNCU392,,"Ride Operations [Ch 4]  (131.8 in)","WOF Rides 4","114.8 PL",,FMN,RM,Business
+464.17500,469.17500,KWF236,,"Retail Operations [Ch 3]","WOF Retail 3","77.0 PL",,FMN,RM,Business
+464.27500,469.27500,WPGZ859,,"Ride Maintenance [Ch 2] (67.0 in)","WOF Maintnc2","88.5 PL",,FMN,RM,Business
+467.85000,0.00000,,,"Burlington: Security/Ops  (Antioch Crossing)","Burlington Ant","351 DPL",,FMN,M,Business

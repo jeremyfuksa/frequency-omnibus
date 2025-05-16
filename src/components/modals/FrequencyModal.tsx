@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import { useFrequenciesStore } from '../../store'
-import { DatabaseService } from '../../lib/db-service'
 import { useDatabaseStore } from '../../store'
 import { Button } from '../ui/button'
 import { Input } from '../ui/input'
@@ -35,17 +34,57 @@ export function FrequencyModal({ frequency, onClose }: FrequencyModalProps) {
     e.preventDefault()
     if (!db) return
 
-    const dbService = new DatabaseService(db)
     if (frequency) {
-      await dbService.updateFrequency(frequency.id, formData)
+      await db.execute(
+        'UPDATE frequencies SET frequency = ?, transmit_frequency = ?, name = ?, description = ?, mode = ?, tone_mode = ?, tone_freq = ?, county = ?, state = ?, service_type = ?, active = ?, export_chirp = ?, export_uniden = ?, export_sdrtrunk = ?, export_sdrplus = ?, export_opengd77 = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?',
+        [
+          formData.frequency,
+          formData.transmit_frequency,
+          formData.name,
+          formData.description,
+          formData.mode,
+          formData.tone_mode,
+          formData.tone_freq,
+          formData.county,
+          formData.state,
+          formData.service_type,
+          formData.active ? 1 : 0,
+          formData.export_chirp ? 1 : 0,
+          formData.export_uniden ? 1 : 0,
+          formData.export_sdrtrunk ? 1 : 0,
+          formData.export_sdrplus ? 1 : 0,
+          formData.export_opengd77 ? 1 : 0,
+          frequency.id
+        ]
+      );
     } else {
-      await dbService.addFrequency(formData as Omit<Frequency, 'id'>)
+      await db.execute(
+        'INSERT INTO frequencies (frequency, transmit_frequency, name, description, mode, tone_mode, tone_freq, county, state, service_type, active, export_chirp, export_uniden, export_sdrtrunk, export_sdrplus, export_opengd77, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)',
+        [
+          formData.frequency,
+          formData.transmit_frequency,
+          formData.name,
+          formData.description,
+          formData.mode,
+          formData.tone_mode,
+          formData.tone_freq,
+          formData.county,
+          formData.state,
+          formData.service_type,
+          formData.active ? 1 : 0,
+          formData.export_chirp ? 1 : 0,
+          formData.export_uniden ? 1 : 0,
+          formData.export_sdrtrunk ? 1 : 0,
+          formData.export_sdrplus ? 1 : 0,
+          formData.export_opengd77 ? 1 : 0
+        ]
+      );
     }
 
     // Refresh frequencies
-    const frequencies = await dbService.getFrequencies()
-    setFrequencies(frequencies)
-    onClose()
+    const frequencies = await db.query<Frequency>('SELECT * FROM frequencies');
+    setFrequencies(frequencies);
+    onClose();
   }
 
   return (
