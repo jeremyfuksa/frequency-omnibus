@@ -1,42 +1,31 @@
-import { useEffect } from 'react'
+import React, { useEffect } from 'react'
 import { MainLayout } from './components/layout/MainLayout'
 import { useDatabaseStore, useUIStore } from './store'
-import { DatabaseService } from './lib/db/database'
+import { DatabaseService } from './lib/database/DatabaseService'
 import { FrequenciesPage } from './pages/FrequenciesPage'
 import { TrunkedSystemsPage } from './pages/TrunkedSystemsPage'
 import { ExportProfilesPage } from './pages/ExportProfilesPage'
 import { SettingsPage } from './pages/SettingsPage'
+import { Dashboard } from './pages/Dashboard'
 
 // Note: We'd need to refactor page components to use default exports for lazy loading
 // For now, we'll use direct imports
 
 function App() {
-  const { setDb, setLoading, setError } = useDatabaseStore()
   const { activeTab } = useUIStore()
+  const { initialize: initializeDatabase } = useDatabaseStore()
 
   useEffect(() => {
-    async function initDatabase() {
-      try {
-        setLoading(true)
-        
-        // Initialize the database service which will load the SQLite file
-        const dbService = DatabaseService.getInstance();
-        await dbService.initialize();
-        
-        // Set the database in the store for other components to use
-        setDb(dbService);
-        
-        setLoading(false)
-      } catch (error) {
-        setError(error instanceof Error ? error.message : 'Failed to initialize database')
-        setLoading(false)
-      }
+    const init = async () => {
+      const dbService = DatabaseService.getInstance()
+      await dbService.initialize()
+      await initializeDatabase(dbService)
     }
 
-    initDatabase()
-  }, [setDb, setLoading, setError])
+    init()
+  }, [initializeDatabase])
 
-  const renderContent = () => {
+  const renderPage = () => {
     switch (activeTab) {
       case 'frequencies':
         return <FrequenciesPage />
@@ -46,14 +35,16 @@ function App() {
         return <ExportProfilesPage />
       case 'settings':
         return <SettingsPage />
+      case 'dashboard':
+        return <Dashboard />
       default:
-        return <FrequenciesPage />
+        return <Dashboard />
     }
   }
 
   return (
     <MainLayout>
-      {renderContent()}
+      {renderPage()}
     </MainLayout>
   )
 }

@@ -128,4 +128,58 @@ export interface TrunkedSystemFilter {
   active?: boolean;
   protocol?: string[];
   region?: string[];
+}
+
+export interface FrequencyData {
+  id: string;
+  timestamp: Date;
+  value: number;
+  category: string;
+  metadata: Record<string, any>;
+}
+
+export interface Category {
+  id: string;
+  name: string;
+  description?: string;
+  color?: string;
+}
+
+export interface AnalysisResult {
+  id: string;
+  category: string;
+  average: number;
+  min: number;
+  max: number;
+  standardDeviation: number;
+  timestamp: Date;
+}
+
+export interface User {
+  id: string;
+  username: string;
+  email: string;
+  role: 'admin' | 'user' | 'viewer';
+  createdAt: Date;
+  lastLogin?: Date;
+}
+
+export interface ExportConfig {
+  format: 'csv' | 'json' | 'excel';
+  dateRange: {
+    start: Date;
+    end: Date;
+  };
+  categories?: string[];
+  includeMetadata?: boolean;
+}
+
+export interface ImportResult {
+  success: boolean;
+  totalRecords: number;
+  importedRecords: number;
+  errors: Array<{
+    row: number;
+    message: string;
+  }>;
 } 

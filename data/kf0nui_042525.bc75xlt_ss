@@ -1,0 +1,336 @@
+Misc			Off			2	2	USA
+Priority	Off
+Service	1	WX		2	Up
+Service	2	Police		2	Up
+Service	3	Fire/Emergency		2	Up
+Service	4	Marine		2	Up
+Service	5	Racing		2	Up
+Service	6	Civil Air		2	Up
+Service	7	HAM Radio		2	Up
+Service	8	Railroad		2	Up
+Service	9	CB Radio		2	Up
+Service	10	Other (FRS/GMRS/MURS)		2	Up
+CustomSearch	2	Up
+Custom	1	Search Bank1	25000000	27995000	Off
+Custom	2	Search Bank2	28000000	29695000	Off
+Custom	3	Search Bank3	29700000	49995000	Off
+Custom	4	Search Bank4	50000000	54000000	Off
+Custom	5	Search Bank5	108000000	136991666	Off
+Custom	6	Search Bank6	137000000	143995000	Off
+Custom	7	Search Bank7	144000000	147995000	Off
+Custom	8	Search Bank8	406000000	449993750	Off
+Custom	9	Search Bank9	450000000	469993750	Off
+Custom	10	Search Bank10	470000000	512000000	On
+CloseCall	Pri	On	On	
+CloseCallBands	On	On	On		On
+GeneralSearch	2		Up
+Conventional	1	Bank 1	Off
+C-Freq	1		145130000			Off	2	Off
+C-Freq	2		146955000			Off	2	Off
+C-Freq	3		443250000			Off	2	Off
+C-Freq	4		443175000			Off	2	Off
+C-Freq	5		147150000			Off	2	Off
+C-Freq	6		442925000			Off	2	Off
+C-Freq	7		442700000			Off	2	Off
+C-Freq	8		442675000			Off	2	Off
+C-Freq	9		443725000			Off	2	Off
+C-Freq	10		443450000			Off	2	Off
+C-Freq	11		147060000			Off	2	Off
+C-Freq	12		442975000			Off	2	Off
+C-Freq	13		147210000			Off	2	Off
+C-Freq	14		147315000			Off	2	Off
+C-Freq	15		147375000			Off	2	Off
+C-Freq	16		145130000			Off	2	Off
+C-Freq	17		146955000			Off	2	Off
+C-Freq	18		443250000			Off	2	Off
+C-Freq	19		443175000			Off	2	Off
+C-Freq	20		147150000			Off	2	Off
+C-Freq	21		442925000			Off	2	Off
+C-Freq	22		442700000			Off	2	Off
+C-Freq	23		442675000			Off	2	Off
+C-Freq	24		443725000			Off	2	Off
+C-Freq	25		443450000			Off	2	Off
+C-Freq	26		147060000			Off	2	Off
+C-Freq	27		442975000			Off	2	Off
+C-Freq	28		147210000			Off	2	Off
+C-Freq	29		147315000			Off	2	Off
+C-Freq	30		147375000			Off	2	Off
+Conventional	2	Bank 2	Off
+C-Freq	31		442200000			Off	2	Off
+C-Freq	32		146865000			Off	2	Off
+C-Freq	33		443775000			Off	2	Off
+C-Freq	34		146835000			Off	2	Off
+C-Freq	35		444825000			Off	2	Off
+C-Freq	36		444675000			Off	2	Off
+C-Freq	37		444650000			Off	2	Off
+C-Freq	38		145390000			Off	2	Off
+C-Freq	39		145430000			Off	2	Off
+C-Freq	40		443850000			Off	2	Off
+C-Freq	41		444525000			Off	2	Off
+C-Freq	42		145490000			Off	2	Off
+C-Freq	43		443950000			Off	2	Off
+C-Freq	44		444150000			Off	2	Off
+C-Freq	45		444325000			Off	2	Off
+C-Freq	46		444350000			Off	2	Off
+C-Freq	47		444500000			Off	2	Off
+C-Freq	48		146700000			Off	2	Off
+C-Freq	49		146730000			Off	2	Off
+C-Freq	50		444375000			Off	2	Off
+C-Freq	51		146655000			Off	2	Off
+C-Freq	52		146640000			Off	2	Off
+C-Freq	53		146625000			Off	2	Off
+C-Freq	54		146610000			Off	2	Off
+C-Freq	55		146685000			Off	2	Off
+C-Freq	56		442175000			Off	2	Off
+C-Freq	57		443525000			Off	2	Off
+C-Freq	58		442450000			Off	2	Off
+C-Freq	59		442150000			Off	2	Off
+C-Freq	60		146940000			Off	2	Off
+Conventional	3	Bank 3	Off
+C-Freq	61		147000000			Off	2	Off
+C-Freq	62		146790000			Off	2	Off
+C-Freq	63		147030000			Off	2	Off
+C-Freq	64		145470000			Off	2	Off
+C-Freq	65		147195000			Off	2	Off
+C-Freq	66		147240000			Off	2	Off
+C-Freq	67		146760000			Off	2	Off
+C-Freq	68		146670000			Off	2	Off
+C-Freq	69		128375000			Off	2	Off
+C-Freq	70		135700000			Off	2	Off
+C-Freq	71		121650000			Off	2	Off
+C-Freq	72		121800000			Off	2	Off
+C-Freq	73		125750000			Off	2	Off
+C-Freq	74		128200000			Off	2	Off
+C-Freq	75		120950000			Off	2	Off
+C-Freq	76		118400000			Off	2	Off
+C-Freq	77		118900000			Off	2	Off
+C-Freq	78		123950000			Off	2	Off
+C-Freq	79		124700000			Off	2	Off
+C-Freq	80		122950000			Off	2	Off
+C-Freq	81		121500000			Off	2	Off
+C-Freq	82		122700000			Off	2	Off
+C-Freq	83		120275000			Off	2	Off
+C-Freq	84		118200000			Off	2	Off
+C-Freq	85		120750000			Off	2	Off
+C-Freq	86		118300000			Off	2	Off
+C-Freq	87		121900000			Off	2	Off
+C-Freq	88		121600000			Off	2	Off
+C-Freq	89		113250000			Off	2	Off
+C-Freq	90		115150000			Off	2	Off
+Conventional	4	Bank 4	Off
+C-Freq	91		115350000			Off	2	Off
+C-Freq	92		460725000			Off	2	Off
+C-Freq	93		462412500			Off	2	Off
+C-Freq	94		467237500			Off	2	Off
+C-Freq	95		467250000			Off	2	Off
+C-Freq	96		467387500			Off	2	Off
+C-Freq	97		467412500			Off	2	Off
+C-Freq	98		165837500			Off	2	Off
+C-Freq	99		151625000			Off	2	Off
+C-Freq	100		151895000			Off	2	Off
+C-Freq	101		151925000			Off	2	Off
+C-Freq	102		151955000			Off	2	Off
+C-Freq	103		154490000			Off	2	Off
+C-Freq	104		154515000			Off	2	Off
+C-Freq	105		154540000			Off	2	Off
+C-Freq	106		154570000			Off	2	Off
+C-Freq	107		154600000			Off	2	Off
+C-Freq	108		457512000			Off	2	Off
+C-Freq	109		461037500			Off	2	Off
+C-Freq	110		461062500			Off	2	Off
+C-Freq	111		461187500			Off	2	Off
+C-Freq	112		461212500			Off	2	Off
+C-Freq	113		463237500			Off	2	Off
+C-Freq	114		463258750			Off	2	Off
+C-Freq	115		463287500			Off	2	Off
+C-Freq	116		464487500			Off	2	Off
+C-Freq	117		464500000			Off	2	Off
+C-Freq	118		464512500			Off	2	Off
+C-Freq	119		464550000			Off	2	Off
+C-Freq	120		464562500			Off	2	Off
+Conventional	5	Bank 5	Off
+C-Freq	121		464637500			Off	2	Off
+C-Freq	122		464687500			Off	2	Off
+C-Freq	123		466037500			Off	2	Off
+C-Freq	124		466287500			Off	2	Off
+C-Freq	125		467737500			Off	2	Off
+C-Freq	126		467750000			Off	2	Off
+C-Freq	127		467762500			Off	2	Off
+C-Freq	128		467775000			Off	2	Off
+C-Freq	129		467787500			Off	2	Off
+C-Freq	130		467800000			Off	2	Off
+C-Freq	131		467812500			Off	2	Off
+C-Freq	132		467825000			Off	2	Off
+C-Freq	133		467837500			Off	2	Off
+C-Freq	134		467850000			Off	2	Off
+C-Freq	135		467862500			Off	2	Off
+C-Freq	136		467875000			Off	2	Off
+C-Freq	137		467887500			Off	2	Off
+C-Freq	138		467900000			Off	2	Off
+C-Freq	139		467912500			Off	2	Off
+C-Freq	140		467925000			Off	2	Off
+C-Freq	141		468212500			Off	2	Off
+C-Freq	142		468262500			Off	2	Off
+C-Freq	143		468312500			Off	2	Off
+C-Freq	144		468362500			Off	2	Off
+C-Freq	145		468412500			Off	2	Off
+C-Freq	146		468462500			Off	2	Off
+C-Freq	147		468512500			Off	2	Off
+C-Freq	148		468562500			Off	2	Off
+C-Freq	149		468612500			Off	2	Off
+C-Freq	150		468662500			Off	2	Off
+Conventional	6	Bank 6	Off
+C-Freq	151		469487500			Off	2	Off
+C-Freq	152		469512500			Off	2	Off
+C-Freq	153		469562500			Off	2	Off
+C-Freq	154		469912500			Off	2	Off
+C-Freq	155		463425000			Off	2	Off
+C-Freq	156		464275000			Off	2	Off
+C-Freq	157		464175000			Off	2	Off
+C-Freq	158		463775000			Off	2	Off
+C-Freq	159		26965000			Off	2	Off
+C-Freq	160		26975000			Off	2	Off
+C-Freq	161		26985000			Off	2	Off
+C-Freq	162		27005000			Off	2	Off
+C-Freq	163		27015000			Off	2	Off
+C-Freq	164		27025000			Off	2	Off
+C-Freq	165		27035000			Off	2	Off
+C-Freq	166		27055000			Off	2	Off
+C-Freq	167		27065000			Off	2	Off
+C-Freq	168		27075000			Off	2	Off
+C-Freq	169		27085000			Off	2	Off
+C-Freq	170		27105000			Off	2	Off
+C-Freq	171		27115000			Off	2	Off
+C-Freq	172		27125000			Off	2	Off
+C-Freq	173		27135000			Off	2	Off
+C-Freq	174		27155000			Off	2	Off
+C-Freq	175		27165000			Off	2	Off
+C-Freq	176		27175000			Off	2	Off
+C-Freq	177		27185000			Off	2	Off
+C-Freq	178		27205000			Off	2	Off
+C-Freq	179		27215000			Off	2	Off
+C-Freq	180		27225000			Off	2	Off
+Conventional	7	Bank 7	Off
+C-Freq	181		27235000			Off	2	Off
+C-Freq	182		27245000			Off	2	Off
+C-Freq	183		27255000			Off	2	Off
+C-Freq	184		27265000			Off	2	Off
+C-Freq	185		27275000			Off	2	Off
+C-Freq	186		27285000			Off	2	Off
+C-Freq	187		27295000			Off	2	Off
+C-Freq	188		27305000			Off	2	Off
+C-Freq	189		27315000			Off	2	Off
+C-Freq	190		27325000			Off	2	Off
+C-Freq	191		27335000			Off	2	Off
+C-Freq	192		27345000			Off	2	Off
+C-Freq	193		27355000			Off	2	Off
+C-Freq	194		27365000			Off	2	Off
+C-Freq	195		27375000			Off	2	Off
+C-Freq	196		27385000			Off	2	Off
+C-Freq	197		27395000			Off	2	Off
+C-Freq	198		27405000			Off	2	Off
+C-Freq	199		462650000			Off	2	Off
+C-Freq	200		462562500			Off	2	Off
+C-Freq	201		462587500			Off	2	Off
+C-Freq	202		462612500			Off	2	Off
+C-Freq	203		462637500			Off	2	Off
+C-Freq	204		462662500			Off	2	Off
+C-Freq	205		462687500			Off	2	Off
+C-Freq	206		462712500			Off	2	Off
+C-Freq	207		462550000			Off	2	Off
+C-Freq	208		462575000			Off	2	Off
+C-Freq	209		462600000			Off	2	Off
+C-Freq	210		462625000			Off	2	Off
+Conventional	8	Bank 8	Off
+C-Freq	211		462675000			Off	2	Off
+C-Freq	212		462700000			Off	2	Off
+C-Freq	213		151820000			Off	2	Off
+C-Freq	214		151880000			Off	2	Off
+C-Freq	215		151940000			Off	2	Off
+C-Freq	216		154570000			Off	2	Off
+C-Freq	217		154600000			Off	2	Off
+C-Freq	218		162550000			Off	2	Off
+C-Freq	219		156650000			Off	2	Off
+C-Freq	220		156800000			Off	2	Off
+C-Freq	221		157100000			Off	2	Off
+C-Freq	222		156450000			Off	2	Off
+C-Freq	223		156300000			Off	2	Off
+C-Freq	224		156425000			Off	2	Off
+C-Freq	225		156475000			Off	2	Off
+C-Freq	226		156575000			Off	2	Off
+C-Freq	227		156625000			Off	2	Off
+C-Freq	228		44580000			Off	2	Off
+C-Freq	229		160200000			Off	2	Off
+C-Freq	230		160215000			Off	2	Off
+C-Freq	231		160260000			Off	2	Off
+C-Freq	232		160320000			Off	2	Off
+C-Freq	233		160350000			Off	2	Off
+C-Freq	234		160395000			Off	2	Off
+C-Freq	235		160425000			Off	2	Off
+C-Freq	236		160440000			Off	2	Off
+C-Freq	237		160455000			Off	2	Off
+C-Freq	238		160470000			Off	2	Off
+C-Freq	239		160485000			Off	2	Off
+C-Freq	240		160500000			Off	2	Off
+Conventional	9	Bank 9	Off
+C-Freq	241		160515000			Off	2	Off
+C-Freq	242		160530000			Off	2	Off
+C-Freq	243		160545000			Off	2	Off
+C-Freq	244		160560000			Off	2	Off
+C-Freq	245		160935000			Off	2	Off
+C-Freq	246		161010000			Off	2	Off
+C-Freq	247		161040000			Off	2	Off
+C-Freq	248		161070000			Off	2	Off
+C-Freq	249		161100000			Off	2	Off
+C-Freq	250		161130000			Off	2	Off
+C-Freq	251		161175000			Off	2	Off
+C-Freq	252		0			Off	2	Off
+C-Freq	253		0			Off	2	Off
+C-Freq	254		0			Off	2	Off
+C-Freq	255		0			Off	2	Off
+C-Freq	256		0			Off	2	Off
+C-Freq	257		0			Off	2	Off
+C-Freq	258		0			Off	2	Off
+C-Freq	259		0			Off	2	Off
+C-Freq	260		0			Off	2	Off
+C-Freq	261		0			Off	2	Off
+C-Freq	262		0			Off	2	Off
+C-Freq	263		0			Off	2	Off
+C-Freq	264		0			Off	2	Off
+C-Freq	265		0			Off	2	Off
+C-Freq	266		0			Off	2	Off
+C-Freq	267		0			Off	2	Off
+C-Freq	268		0			Off	2	Off
+C-Freq	269		0			Off	2	Off
+C-Freq	270		0			Off	2	Off
+Conventional	10	Bank 10	On
+C-Freq	271		0			Off	2	Off
+C-Freq	272		0			Off	2	Off
+C-Freq	273		0			Off	2	Off
+C-Freq	274		0			Off	2	Off
+C-Freq	275		0			Off	2	Off
+C-Freq	276		0			Off	2	Off
+C-Freq	277		0			Off	2	Off
+C-Freq	278		0			Off	2	Off
+C-Freq	279		0			Off	2	Off
+C-Freq	280		0			Off	2	Off
+C-Freq	281		0			Off	2	Off
+C-Freq	282		0			Off	2	Off
+C-Freq	283		0			Off	2	Off
+C-Freq	284		0			Off	2	Off
+C-Freq	285		0			Off	2	Off
+C-Freq	286		0			Off	2	Off
+C-Freq	287		0			Off	2	Off
+C-Freq	288		0			Off	2	Off
+C-Freq	289		0			Off	2	Off
+C-Freq	290		0			Off	2	Off
+C-Freq	291		0			Off	2	Off
+C-Freq	292		0			Off	2	Off
+C-Freq	293		0			Off	2	Off
+C-Freq	294		0			Off	2	Off
+C-Freq	295		0			Off	2	Off
+C-Freq	296		0			Off	2	Off
+C-Freq	297		0			Off	2	Off
+C-Freq	298		0			Off	2	Off
+C-Freq	299		0			Off	2	Off
+C-Freq	300		0			Off	2	Off

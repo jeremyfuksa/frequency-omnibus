@@ -1,11 +1,11 @@
 import { create } from 'zustand';
-import { DatabaseService } from '../lib/db/database';
+import { DatabaseService } from '../lib/database/DatabaseService';
 
 interface DatabaseState {
   initialized: boolean;
   loading: boolean;
   error: string | null;
-  initialize: () => Promise<void>;
+  initialize: (dbService: DatabaseService) => Promise<void>;
   backup: () => Promise<Uint8Array>;
   restore: (data: Uint8Array) => Promise<void>;
   reset: () => Promise<void>;
@@ -16,11 +16,10 @@ export const useDatabaseStore = create<DatabaseState>((set, get) => ({
   loading: false,
   error: null,
 
-  initialize: async () => {
+  initialize: async (dbService: DatabaseService) => {
     set({ loading: true, error: null });
     try {
-      const db = DatabaseService.getInstance();
-      await db.initialize();
+      await dbService.initialize();
       set({ initialized: true, loading: false });
     } catch (error) {
       set({ 

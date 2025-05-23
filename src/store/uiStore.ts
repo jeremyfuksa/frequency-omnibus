@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import { SettingsService } from '../lib/services/settingsService';
 
-type TabType = 'frequencies' | 'trunked' | 'export' | 'settings';
+type TabType = 'frequencies' | 'trunked' | 'export' | 'settings' | 'dashboard';
 
 interface UIState {
   darkMode: boolean;
@@ -48,7 +48,7 @@ export const useUIStore = create<UIState>((set, get) => {
       set({ sidebarOpen: newValue });
     },
 
-    activeTab: 'frequencies',
+    activeTab: 'dashboard',
     setActiveTab: async (tab) => {
       await settingsService.setSetting('activeTab', tab, 'string');
       set({ activeTab: tab });
@@ -69,7 +69,7 @@ export const useUIStore = create<UIState>((set, get) => {
     initialize: async () => {
       const darkMode = await settingsService.getSetting('darkMode', false);
       const sidebarOpen = await settingsService.getSetting('sidebarOpen', true);
-      const activeTab = await settingsService.getSetting<TabType>('activeTab', 'frequencies');
+      const activeTab = await settingsService.getSetting<TabType>('activeTab', 'dashboard');
       const modals = await settingsService.getSetting('modals', {
         frequency: false,
         trunkedSystem: false,
